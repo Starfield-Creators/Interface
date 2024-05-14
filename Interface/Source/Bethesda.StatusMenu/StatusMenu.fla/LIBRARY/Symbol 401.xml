@@ -1,0 +1,69 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 401" lastModified="1713310678" linkageClassName="EffectGroupHeaderEntryClip" linkageExportForAS="true">
+     <timeline>
+          <DOMTimeline name="Symbol 401">
+               <layers>
+                    <DOMLayer name="Labels Layer" color="#b5a84c">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728" name="Buff" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" keyMode="9728" name="Debuff" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="2" keyMode="9728" name="Mixed" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 2" color="#a3d493">
+                         <frames>
+                              <DOMFrame index="0" duration="3" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 400" name="Name_mc" centerPoint3DX="158.6" centerPoint3DY="25.5">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="11.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 3" color="#a4d8c5">
+                         <frames>
+                              <DOMFrame index="0" duration="3" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 398" name="Timer_mc" centerPoint3DX="361.9" centerPoint3DY="25.0">
+                                             <matrix>
+                                                  <Matrix tx="305.9" ty="11.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 4" color="#e77bbe" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" duration="3" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 380" name="Icon_mc" centerPoint3DX="409.0" centerPoint3DY="13.0">
+                                             <matrix>
+                                                  <Matrix tx="409.0" ty="13.0" a="0.99993896484375" d="1.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timeline>
+</DOMSymbolItem>

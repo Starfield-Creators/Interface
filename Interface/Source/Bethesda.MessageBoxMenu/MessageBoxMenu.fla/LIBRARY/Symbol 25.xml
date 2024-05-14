@@ -1,0 +1,124 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 25" lastModified="1713310677" linkageClassName="MessageBoxMenu" linkageExportForAS="true">
+     <timeline>
+          <DOMTimeline name="Symbol 25">
+               <layers>
+                    <DOMLayer name="Layer 1" color="#7894db">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 7" name="List_mc" centerPoint3DX="390.9" centerPoint3DY="240.05">
+                                             <matrix>
+                                                  <Matrix tx="20.0" ty="55.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 2" color="#eae212">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMDynamicText name="Body_tf" antiAliasSharpness="0" antiAliasThickness="0" width="706.0" height="72.0" isSelectable="false" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix tx="22.0" ty="16.0"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Message Content. Message Content. Message Content. MessaMe Content.</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" lineSpacing="8.0" rightMargin="0.0" autoKern="false" fillColor="#ffffff" alpha="1.0"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 3" color="#86728d">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 23" name="UpperHeader_mc" centerPoint3DX="375.65" centerPoint3DY="-24.35">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="-50.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="30" blurY="30" color="#14181e" quality="1" strength="0.7"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 4" color="#b61ab0">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 19" name="LowerFooter_mc" centerPoint3DX="375.65" centerPoint3DY="225.75">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="195.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="30" blurY="30" color="#14181e" quality="1" strength="0.7"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 5" color="#edd155">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 14" name="BGRect_mc" centerPoint3DX="350.5" centerPoint3DY="98.25">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0" a="1.0714111328125" d="1.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.5"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 6" color="#f6d022" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 12" name="BGRectBlack_mc" centerPoint3DX="350.0" centerPoint3DY="97.5">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0" a="1.0714111328125" d="1.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.96875"/>
+                                             </color>
+                                             <filters>
+                                                  <GlowFilter blurX="30" blurY="30" color="#14181e" quality="1" strength="0.7"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timeline>
+</DOMSymbolItem>

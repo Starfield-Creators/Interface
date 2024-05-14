@@ -1,0 +1,99 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 14" lastModified="1713310678" linkageClassName="Shared.AS3.BSStepper" linkageExportForAS="true">
+     <timeline>
+          <DOMTimeline name="Symbol 14">
+               <layers>
+                    <DOMLayer name="Layer 1" color="#8ddb43">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 2" name="RightCatcher_mc" centerPoint3DX="234.0" centerPoint3DY="37.6">
+                                             <matrix>
+                                                  <Matrix tx="198.0" ty="1.6" a="0.5803985595703125" d="0.277069091796875"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.0"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 2" color="#09bdc1">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 2" name="LeftCatcher_mc" centerPoint3DX="36.0" centerPoint3DY="37.6">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="1.6" a="0.5803985595703125" d="0.277069091796875"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.0"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 3" color="#7cfb1f">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMDynamicText name="textField" antiAliasSharpness="0" antiAliasThickness="0" width="217.6" height="18.0" renderAsHTML="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="11.85" ty="4.4"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>ON</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" letterSpacing="-0.5" lineSpacing="2.0" rightMargin="0.0" size="18" bitmapSize="360" face="" fillColor="#b2b2b2"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 4" color="#33c2ff">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 12" name="RightArrow_mc" centerPoint3DX="238.25" centerPoint3DY="14.7">
+                                             <matrix>
+                                                  <Matrix tx="233.25" ty="4.7" a="0.6857147216796875" d="0.6857147216796875"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 5" color="#fbb7bb" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 12" name="LeftArrow_mc" centerPoint3DX="11.85" centerPoint3DY="28.4">
+                                             <matrix>
+                                                  <Matrix tx="6.85" ty="18.4" a="-0.6857147216796875" d="-0.6857147216796875"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timeline>
+</DOMSymbolItem>

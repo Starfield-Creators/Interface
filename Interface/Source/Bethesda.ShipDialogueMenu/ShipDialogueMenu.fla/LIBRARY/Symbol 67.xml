@@ -1,0 +1,303 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 67" lastModified="1713310678" linkageClassName="ShipDialogueMenu_fla.FailAnim_43" linkageExportForAS="true">
+     <timeline>
+          <DOMTimeline name="Symbol 67">
+               <layers>
+                    <DOMLayer name="Labels Layer" color="#6540e7">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728" name="Off" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" keyMode="9728" name="Flash" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Script Layer" color="#d6c3f3">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <Actionscript>
+                                        <script>stop();
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 3" color="#f96bf3" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" duration="2" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 66" name="FailGlow_mc" centerPoint3DX="112.5" centerPoint3DY="35.25">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.0"/>
+                                             </color>
+                                             <filters>
+                                                  <GlowFilter blurX="20" blurY="20" color="#e52027" inner="true" knockout="true" quality="1" strength="1"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="2" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 66" name="FailGlow_mc" centerPoint3DX="112.5" centerPoint3DY="35.25">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.14453125"/>
+                                             </color>
+                                             <filters>
+                                                  <GlowFilter blurX="21.42852783203125" blurY="21.42852783203125" color="#e52027" inner="true" knockout="true" quality="1" strength="1"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="3" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 66" name="FailGlow_mc" centerPoint3DX="112.5" centerPoint3DY="35.25">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.28515625"/>
+                                             </color>
+                                             <filters>
+                                                  <GlowFilter blurX="22.857208251953125" blurY="22.857208251953125" color="#e52027" inner="true" knockout="true" quality="1" strength="1"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="4" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 66" name="FailGlow_mc" centerPoint3DX="112.5" centerPoint3DY="35.25">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.4296875"/>
+                                             </color>
+                                             <filters>
+                                                  <GlowFilter blurX="24.285736083984375" blurY="24.285736083984375" color="#e52027" inner="true" knockout="true" quality="1" strength="1"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="5" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 66" name="FailGlow_mc" centerPoint3DX="112.5" centerPoint3DY="35.25">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.5703125"/>
+                                             </color>
+                                             <filters>
+                                                  <GlowFilter blurX="25.714263916015625" blurY="25.714263916015625" color="#e52027" inner="true" knockout="true" quality="1" strength="1"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="6" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 66" name="FailGlow_mc" centerPoint3DX="112.5" centerPoint3DY="35.25">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.71484375"/>
+                                             </color>
+                                             <filters>
+                                                  <GlowFilter blurX="27.142791748046875" blurY="27.142791748046875" color="#e52027" inner="true" knockout="true" quality="1" strength="1"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="7" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 66" name="FailGlow_mc" centerPoint3DX="112.5" centerPoint3DY="35.25">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.85546875"/>
+                                             </color>
+                                             <filters>
+                                                  <GlowFilter blurX="28.57147216796875" blurY="28.57147216796875" color="#e52027" inner="true" knockout="true" quality="1" strength="1"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="8" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 66" name="FailGlow_mc" centerPoint3DX="112.5" centerPoint3DY="35.25">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color/>
+                                             </color>
+                                             <filters>
+                                                  <GlowFilter blurX="30" blurY="30" color="#e52027" inner="true" knockout="true" quality="1" strength="1"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="9" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 66" name="FailGlow_mc" centerPoint3DX="112.5" centerPoint3DY="35.25">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.85546875"/>
+                                             </color>
+                                             <filters>
+                                                  <GlowFilter blurX="28.57147216796875" blurY="28.57147216796875" color="#e52027" inner="true" knockout="true" quality="1" strength="1"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="10" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 66" name="FailGlow_mc" centerPoint3DX="112.5" centerPoint3DY="35.25">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.71484375"/>
+                                             </color>
+                                             <filters>
+                                                  <GlowFilter blurX="27.142791748046875" blurY="27.142791748046875" color="#e52027" inner="true" knockout="true" quality="1" strength="1"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="11" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 66" name="FailGlow_mc" centerPoint3DX="112.5" centerPoint3DY="35.25">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.5703125"/>
+                                             </color>
+                                             <filters>
+                                                  <GlowFilter blurX="25.714263916015625" blurY="25.714263916015625" color="#e52027" inner="true" knockout="true" quality="1" strength="1"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="12" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 66" name="FailGlow_mc" centerPoint3DX="112.5" centerPoint3DY="35.25">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.4296875"/>
+                                             </color>
+                                             <filters>
+                                                  <GlowFilter blurX="24.285736083984375" blurY="24.285736083984375" color="#e52027" inner="true" knockout="true" quality="1" strength="1"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="13" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 66" name="FailGlow_mc" centerPoint3DX="112.5" centerPoint3DY="35.25">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.28515625"/>
+                                             </color>
+                                             <filters>
+                                                  <GlowFilter blurX="22.857208251953125" blurY="22.857208251953125" color="#e52027" inner="true" knockout="true" quality="1" strength="1"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="14" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 66" name="FailGlow_mc" centerPoint3DX="112.5" centerPoint3DY="35.25">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.14453125"/>
+                                             </color>
+                                             <filters>
+                                                  <GlowFilter blurX="21.42852783203125" blurY="21.42852783203125" color="#e52027" inner="true" knockout="true" quality="1" strength="1"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="15" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 66" name="FailGlow_mc" centerPoint3DX="112.5" centerPoint3DY="35.25">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.0"/>
+                                             </color>
+                                             <filters>
+                                                  <GlowFilter blurX="20" blurY="20" color="#e52027" inner="true" knockout="true" quality="1" strength="1"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timeline>
+</DOMSymbolItem>

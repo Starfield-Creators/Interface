@@ -1,0 +1,504 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 144" lastModified="1713310677" linkageClassName="ShipReticle_fla.EnemyHitIndicatorAnimArc_mc_243" linkageExportForAS="true">
+     <timeline>
+          <DOMTimeline name="Symbol 144">
+               <layers>
+                    <DOMLayer name="Labels Layer" color="#97a054">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728" name="Off" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" keyMode="9728" name="Anim" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="2" duration="3" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="5" keyMode="9728" name="Reset" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Script Layer" color="#ed6430">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <Actionscript>
+                                        <script>stop();
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 3" color="#7954bc">
+                         <frames>
+                              <DOMFrame index="0" duration="5" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="5" keyMode="9728">
+                                   <elements>
+                                        <DOMShape isFloating="true">
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <RadialGradient focalPointRatio="0" spreadMethod="reflect">
+                                                            <matrix>
+                                                                 <Matrix tx="0.15" ty="250.0" a="0.035736083984375" d="0.035736083984375"/>
+                                                            </matrix>
+                                                            <GradientEntry color="#cf0d0d" alpha="0.2" ratio="0.0"/>
+                                                            <GradientEntry color="#cf0d0d" alpha="0.0" ratio="1.0"/>
+                                                       </RadialGradient>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes/>
+                                             <edges>
+                                                  <Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 586 5000[ 586 5098 559 5184| 558 5186| -550 5186| -550 5184[ -578 5098 -578 5000[ -578 4760 -409 4588[ -237 4418 4 4418[ 246 4418 416 4588[ 586 4760 586 5000"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="6" keyMode="9728">
+                                   <elements>
+                                        <DOMShape isFloating="true">
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <RadialGradient focalPointRatio="0" spreadMethod="reflect">
+                                                            <matrix>
+                                                                 <Matrix tx="0.15" ty="250.0" a="0.035736083984375" d="0.035736083984375"/>
+                                                            </matrix>
+                                                            <GradientEntry color="#cf0d0d" alpha="0.49803922" ratio="0.0"/>
+                                                            <GradientEntry color="#cf0d0d" alpha="0.0" ratio="1.0"/>
+                                                       </RadialGradient>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes/>
+                                             <edges>
+                                                  <Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 586 5000[ 586 5098 559 5184| -550 5184[ -578 5098 -578 5000[ -578 4760 -409 4588[ -237 4418 4 4418[ 246 4418 416 4588[ 586 4760 586 5000"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="7" keyMode="9728">
+                                   <elements>
+                                        <DOMShape isFloating="true">
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <RadialGradient focalPointRatio="0" spreadMethod="reflect">
+                                                            <matrix>
+                                                                 <Matrix tx="0.15" ty="250.0" a="0.035736083984375" d="0.035736083984375"/>
+                                                            </matrix>
+                                                            <GradientEntry color="#cf0d0d" alpha="0.4" ratio="0.0"/>
+                                                            <GradientEntry color="#cf0d0d" alpha="0.0" ratio="1.0"/>
+                                                       </RadialGradient>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes/>
+                                             <edges>
+                                                  <Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 586 5000[ 586 5098 559 5184| -550 5184[ -578 5098 -578 5000[ -578 4760 -409 4588[ -237 4418 4 4418[ 246 4418 416 4588[ 586 4760 586 5000"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="8" keyMode="9728">
+                                   <elements>
+                                        <DOMShape isFloating="true">
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <RadialGradient focalPointRatio="0" spreadMethod="reflect">
+                                                            <matrix>
+                                                                 <Matrix tx="0.15" ty="250.0" a="0.035736083984375" d="0.035736083984375"/>
+                                                            </matrix>
+                                                            <GradientEntry color="#cf0d0d" alpha="0.29803923" ratio="0.0"/>
+                                                            <GradientEntry color="#cf0d0d" alpha="0.0" ratio="1.0"/>
+                                                       </RadialGradient>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes/>
+                                             <edges>
+                                                  <Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 586 5000[ 586 5098 559 5184| -550 5184[ -578 5098 -578 5000[ -578 4760 -409 4588[ -237 4418 4 4418[ 246 4418 416 4588[ 586 4760 586 5000"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="9" keyMode="9728">
+                                   <elements>
+                                        <DOMShape isFloating="true">
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <RadialGradient focalPointRatio="0" spreadMethod="reflect">
+                                                            <matrix>
+                                                                 <Matrix tx="0.15" ty="250.0" a="0.035736083984375" d="0.035736083984375"/>
+                                                            </matrix>
+                                                            <GradientEntry color="#cf0d0d" alpha="0.2" ratio="0.0"/>
+                                                            <GradientEntry color="#cf0d0d" alpha="0.0" ratio="1.0"/>
+                                                       </RadialGradient>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes/>
+                                             <edges>
+                                                  <Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 586 5000[ 586 5098 559 5184| -550 5184[ -578 5098 -578 5000[ -578 4760 -409 4588[ -237 4418 4 4418[ 246 4418 416 4588[ 586 4760 586 5000"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="10" keyMode="9728">
+                                   <elements>
+                                        <DOMShape isFloating="true">
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <RadialGradient focalPointRatio="0" spreadMethod="reflect">
+                                                            <matrix>
+                                                                 <Matrix tx="0.15" ty="250.0" a="0.035736083984375" d="0.035736083984375"/>
+                                                            </matrix>
+                                                            <GradientEntry color="#cf0d0d" alpha="0.09803922" ratio="0.0"/>
+                                                            <GradientEntry color="#cf0d0d" alpha="0.0" ratio="0.8901961"/>
+                                                       </RadialGradient>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes/>
+                                             <edges>
+                                                  <Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 586 5000[ 586 5098 559 5184| -550 5184[ -578 5098 -578 5000[ -578 4760 -409 4588[ -237 4418 4 4418[ 246 4418 416 4588[ 586 4760 586 5000"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="11" keyMode="9728">
+                                   <elements>
+                                        <DOMShape isFloating="true">
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <RadialGradient focalPointRatio="0" spreadMethod="reflect">
+                                                            <matrix>
+                                                                 <Matrix tx="0.15" ty="250.0" a="0.035736083984375" d="0.035736083984375"/>
+                                                            </matrix>
+                                                            <GradientEntry color="#cf0d0d" alpha="0.0" ratio="0.0"/>
+                                                            <GradientEntry color="#cf0d0d" alpha="0.0" ratio="0.72156864"/>
+                                                       </RadialGradient>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes/>
+                                             <edges>
+                                                  <Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 586 5000[ 586 5098 559 5184| -550 5184[ -578 5098 -578 5000[ -578 4760 -409 4588[ -237 4418 4 4418[ 246 4418 416 4588[ 586 4760 586 5000"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="12" keyMode="9728">
+                                   <elements>
+                                        <DOMShape isFloating="true">
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <RadialGradient focalPointRatio="0" spreadMethod="reflect">
+                                                            <matrix>
+                                                                 <Matrix tx="0.15" ty="250.0" a="0.0360870361328125" d="0.0360870361328125"/>
+                                                            </matrix>
+                                                            <GradientEntry color="#cf0d0d" alpha="0.0" ratio="0.0"/>
+                                                            <GradientEntry color="#cf0d0d" alpha="0.0" ratio="0.54509807"/>
+                                                       </RadialGradient>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes/>
+                                             <edges>
+                                                  <Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 586 5000[ 586 5098 559 5184| -550 5184[ -578 5098 -578 5000[ -578 4760 -409 4588[ -237 4418 4 4418[ 246 4418 416 4588[ 586 4760 586 5000"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 4" color="#692bff">
+                         <frames>
+                              <DOMFrame index="0" duration="2" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="2" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 126" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="3" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 127" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="4" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 128" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="5" duration="8" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 5" color="#90f50f">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 124" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="1" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 125" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="2" duration="3" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="5" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 131" centerPoint3DX="14.15" centerPoint3DY="316.85">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="247.2" a="0.004791259765625" d="0.0084991455078125" b="0.614501953125" c="-1.09075927734375"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.30078125"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="6" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 131" centerPoint3DX="14.15" centerPoint3DY="316.85">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="247.2" a="0.004791259765625" d="0.0084991455078125" b="0.614501953125" c="-1.09075927734375"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.69921875"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="7" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 131" centerPoint3DX="14.1" centerPoint3DY="316.7">
+                                             <matrix>
+                                                  <Matrix tx="-0.05" ty="247.05" a="0.0047760009765625" d="0.00848388671875" b="0.6144866943359375" c="-1.090728759765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.55859375"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="8" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 131" centerPoint3DX="14.1" centerPoint3DY="316.55">
+                                             <matrix>
+                                                  <Matrix tx="-0.05" ty="246.9" a="0.0047760009765625" d="0.00848388671875" b="0.6144866943359375" c="-1.090728759765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.41796875"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="9" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 131" centerPoint3DX="14.05" centerPoint3DY="316.35">
+                                             <matrix>
+                                                  <Matrix tx="-0.1" ty="246.7" a="0.0047760009765625" d="0.00848388671875" b="0.6144866943359375" c="-1.090728759765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.28125"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="10" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 131" centerPoint3DX="14.05" centerPoint3DY="316.2">
+                                             <matrix>
+                                                  <Matrix tx="-0.1" ty="246.55" a="0.0047760009765625" d="0.00848388671875" b="0.6144866943359375" c="-1.090728759765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.140625"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="11" duration="2" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 131" centerPoint3DX="14.15" centerPoint3DY="316.0">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="246.35" a="0.004791259765625" d="0.0084991455078125" b="0.614501953125" c="-1.09075927734375"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.0"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 6" color="#7db278" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" duration="5" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="5" duration="4" keyMode="9728">
+                                   <elements>
+                                        <DOMShape isFloating="true">
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <RadialGradient focalPointRatio="0" spreadMethod="reflect">
+                                                            <matrix>
+                                                                 <Matrix tx="0.05" ty="251.4" a="0.09539794921875" d="0.12432861328125"/>
+                                                            </matrix>
+                                                            <GradientEntry color="#cf0d0d" alpha="1.0" ratio="0.4509804"/>
+                                                            <GradientEntry color="#cf0d0d" alpha="0.0" ratio="0.7647059"/>
+                                                       </RadialGradient>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes/>
+                                             <edges>
+                                                  <Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 1 5138[ 605 5138 1190 4961| 1201 5038[ 612 5217 1 5217[ -618 5217 -1212 5034| -1201 4957[ -610 5138 1 5138"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="9" keyMode="9728">
+                                   <elements>
+                                        <DOMShape isFloating="true">
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <RadialGradient focalPointRatio="0" spreadMethod="reflect">
+                                                            <matrix>
+                                                                 <Matrix tx="0.05" ty="251.2" a="0.09539794921875" d="0.1235198974609375"/>
+                                                            </matrix>
+                                                            <GradientEntry color="#cf0d0d" alpha="1.0" ratio="0.39607844"/>
+                                                            <GradientEntry color="#cf0d0d" alpha="0.0" ratio="0.7882353"/>
+                                                       </RadialGradient>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes/>
+                                             <edges>
+                                                  <Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 1 5133[ 605 5133 1190 4957| 1201 5034[ 612 5211 1 5211[ -618 5211 -1212 5030| -1201 4954[ -610 5133 1 5133"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="10" keyMode="9728">
+                                   <elements>
+                                        <DOMShape isFloating="true">
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <RadialGradient focalPointRatio="0" spreadMethod="reflect">
+                                                            <matrix>
+                                                                 <Matrix tx="0.05" ty="251.55" a="0.09539794921875" d="0.1153411865234375"/>
+                                                            </matrix>
+                                                            <GradientEntry color="#cf0d0d" alpha="0.7490196" ratio="0.47058824"/>
+                                                            <GradientEntry color="#cf0d0d" alpha="0.0" ratio="0.7921569"/>
+                                                       </RadialGradient>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes/>
+                                             <edges>
+                                                  <Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 1 5134[ 606 5134 1192 4969| 1202 5041[ 613 5206 1 5206[ -619 5206 -1213 5037| -1203 4966[ -611 5134 1 5134"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="11" keyMode="9728">
+                                   <elements>
+                                        <DOMShape isFloating="true">
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <RadialGradient focalPointRatio="0" spreadMethod="reflect">
+                                                            <matrix>
+                                                                 <Matrix tx="0.05" ty="252.05" a="0.09539794921875" d="0.098846435546875"/>
+                                                            </matrix>
+                                                            <GradientEntry color="#cf0d0d" alpha="0.49803922" ratio="0.23137255"/>
+                                                            <GradientEntry color="#cf0d0d" alpha="0.0" ratio="0.5176471"/>
+                                                       </RadialGradient>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes/>
+                                             <edges>
+                                                  <Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 1 5130[ 607 5130 1194 4988| 1203 5050[ 613 5192 1 5192[ -619 5192 -1214 5047| -1205 4985[ -612 5130 1 5130"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="12" keyMode="9728">
+                                   <elements>
+                                        <DOMShape isFloating="true">
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <RadialGradient focalPointRatio="0" spreadMethod="reflect">
+                                                            <matrix>
+                                                                 <Matrix tx="0.05" ty="252.45" a="0.09539794921875" d="0.082305908203125"/>
+                                                            </matrix>
+                                                            <GradientEntry color="#cf0d0d" alpha="0.14901961" ratio="0.0"/>
+                                                            <GradientEntry color="#cf0d0d" alpha="0.0" ratio="0.4509804"/>
+                                                       </RadialGradient>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes/>
+                                             <edges>
+                                                  <Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 1 5124[ 608 5124 1196 5005| 1204 5058[ 614 5176 1 5176[ -620 5176 -1215 5055| -1208 5003[ -614 5124 1 5124"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timeline>
+</DOMSymbolItem>

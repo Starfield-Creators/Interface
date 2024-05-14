@@ -1,0 +1,64 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 1374" lastModified="1713310678" linkageClassName="PlayerHudComponents_fla.EquippedGrenadeIcon_mc_22" linkageExportForAS="true">
+     <timeline>
+          <DOMTimeline name="Symbol 1374">
+               <layers>
+                    <DOMLayer name="Labels Layer" color="#65d449">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728" name="Mine" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" keyMode="9728" name="Grenade" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Script Layer" color="#fb32f0">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <Actionscript>
+                                        <script>stop();
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" keyMode="9728">
+                                   <Actionscript>
+                                        <script>stop();
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 3" color="#f68b88" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1366" name="GrenadeVisibilityClip_mc" centerPoint3DX="6.35" centerPoint3DY="6.35">
+                                             <matrix>
+                                                  <Matrix tx="-8.0" ty="-8.0" a="0.5660247802734375" d="0.56463623046875"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="1" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1373" name="GrenadeVisibilityClip_mc" centerPoint3DX="15.55" centerPoint3DY="16.9">
+                                             <matrix>
+                                                  <Matrix tx="2.25" ty="0.0" a="0.579071044921875" d="0.57794189453125"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timeline>
+</DOMSymbolItem>

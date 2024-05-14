@@ -1,0 +1,65 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 169" lastModified="1713310677">
+     <timeline>
+          <DOMTimeline name="Symbol 169">
+               <layers>
+                    <DOMLayer name="Layer 1" color="#48bf9f">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMDynamicText name="LocationDiscoveredText_tf" antiAliasSharpness="0" antiAliasThickness="0" width="956.0" height="18.0" renderAsHTML="true" isSelectable="false" lineType="multiline no wrap">
+                                             <matrix>
+                                                  <Matrix tx="-478.0" ty="-1.0"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>LOCATION DISCOVERED</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" rotation="true" indent="0.0" leftMargin="0.0" autoKern="false" letterSpacing="0.8" lineSpacing="2.0" rightMargin="0.0" size="18" bitmapSize="360" face="" fillColor="#1b1b1b"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 2" color="#a2f941" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMShape isFloating="true">
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <LinearGradient>
+                                                            <matrix>
+                                                                 <Matrix tx="240.0" ty="-14.55" a="-0.29296875" d="0.0412750244140625"/>
+                                                            </matrix>
+                                                            <GradientEntry color="#d4d4d4" alpha="0.0" ratio="0.0"/>
+                                                            <GradientEntry color="#d4d4d4" alpha="1.0" ratio="0.7411765"/>
+                                                       </LinearGradient>
+                                                  </FillStyle>
+                                                  <FillStyle index="2">
+                                                       <LinearGradient>
+                                                            <matrix>
+                                                                 <Matrix tx="-240.0" ty="-14.55" a="0.29296875" d="0.0412750244140625"/>
+                                                            </matrix>
+                                                            <GradientEntry color="#ffffff" alpha="0.0" ratio="0.0"/>
+                                                            <GradientEntry color="#d4d4d4" alpha="1.0" ratio="0.7411765"/>
+                                                       </LinearGradient>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes/>
+                                             <edges>
+                                                  <Edge fillStyle0="1" fillStyle1="0" strokeStyle="0" edges="! 0 385| 9600 385| 9600 -115| 0 -115"/>
+                                                  <Edge fillStyle0="1" fillStyle1="2" strokeStyle="0" edges="! 0 -115| 0 385"/>
+                                                  <Edge fillStyle0="0" fillStyle1="2" strokeStyle="0" edges="! 0 385| -9600 385| -9600 -115| 0 -115"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timeline>
+</DOMSymbolItem>

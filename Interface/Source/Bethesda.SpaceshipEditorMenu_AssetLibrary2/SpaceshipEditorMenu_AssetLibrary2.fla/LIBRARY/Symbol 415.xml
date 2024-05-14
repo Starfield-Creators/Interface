@@ -1,0 +1,451 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 415" lastModified="1713310678" linkageClassName="SpaceshipEditorMenu_AssetLibrary2_fla.Logo_Manufacturer_56" linkageExportForAS="true">
+     <timeline>
+          <DOMTimeline name="Symbol 415">
+               <layers>
+                    <DOMLayer name="Labels Layer" color="#eabbfd">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728" name="Empty" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" keyMode="9728" name="ShipModuleManufacturerAmunDunn" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="2" keyMode="9728" name="ShipModuleManufacturerBallistic" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="3" keyMode="9728" name="ShipModuleManufacturerDeepCore" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="4" keyMode="9728" name="ShipModuleManufacturerDeimos" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="5" keyMode="9728" name="ShipModuleManufacturerDogstar" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="6" keyMode="9728" name="ShipModuleManufacturerHopetech" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="7" keyMode="9728" name="ShipModuleManufacturerHorizonDefense" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="8" keyMode="9728" name="ShipModuleManufacturerLightScythe" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="9" keyMode="9728" name="ShipModuleManufacturerNautilus" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="10" keyMode="9728" name="ShipModuleManufacturerNovaGalactic" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="11" keyMode="9728" name="ShipModuleManufacturerPanoptes" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="12" keyMode="9728" name="ShipModuleManufacturerProtectorate" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="13" keyMode="9728" name="ShipModuleManufacturerReladyne" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="14" keyMode="9728" name="ShipModuleManufacturerSextant" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="15" keyMode="9728" name="ShipModuleManufacturerShinigami" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="16" keyMode="9728" name="ShipModuleManufacturerSlayton" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="17" keyMode="9728" name="ShipModuleManufacturerStroudEklund" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="18" keyMode="9728" name="ShipModuleManufacturerTaiyo" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="19" keyMode="9728" name="ShipModuleManufacturerTrident" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="20" keyMode="9728" name="ShipModuleManufacturerXiang" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="21" keyMode="9728" name="ShipModuleManufacturerCrimsonFleet" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="22" keyMode="9728" name="ShipModuleManufacturerVanguard" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Script Layer" color="#ca63e1">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <Actionscript>
+                                        <script>this.ShipSystems_mc = MovieClip(getChildByName("ShipSystems")).ShipSystems_mc;
+this.___applyLayerZdepthAndEffects___();
+addEventListener(Event.ADDED,this.___onAdded___);
+stop();
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" keyMode="9728">
+                                   <Actionscript>
+                                        <script>stop();
+this.Ship_mc.visible = false;
+this.ShipSystems_mc.visible = true;
+this.ShipSystems_mc.gotoAndStop("amundunn");
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="2" keyMode="9728">
+                                   <Actionscript>
+                                        <script>stop();
+this.Ship_mc.visible = false;
+this.ShipSystems_mc.visible = true;
+this.ShipSystems_mc.gotoAndStop("ballistic");
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="3" keyMode="9728">
+                                   <Actionscript>
+                                        <script>stop();
+this.Ship_mc.visible = false;
+this.ShipSystems_mc.visible = true;
+this.ShipSystems_mc.gotoAndStop("deepcore");
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="4" keyMode="9728">
+                                   <Actionscript>
+                                        <script>stop();
+this.Ship_mc.visible = true;
+this.ShipSystems_mc.visible = false;
+this.Ship_mc.gotoAndStop("deimos");
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="5" keyMode="9728">
+                                   <Actionscript>
+                                        <script>stop();
+this.Ship_mc.visible = false;
+this.ShipSystems_mc.visible = true;
+this.ShipSystems_mc.gotoAndStop("dogstar");
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="6" keyMode="9728">
+                                   <Actionscript>
+                                        <script>stop();
+this.Ship_mc.visible = true;
+this.ShipSystems_mc.visible = false;
+this.Ship_mc.gotoAndStop("hopetech");
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="7" keyMode="9728">
+                                   <Actionscript>
+                                        <script>stop();
+this.Ship_mc.visible = false;
+this.ShipSystems_mc.visible = true;
+this.ShipSystems_mc.gotoAndStop("horizon");
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="8" keyMode="9728">
+                                   <Actionscript>
+                                        <script>stop();
+this.Ship_mc.visible = false;
+this.ShipSystems_mc.visible = true;
+this.ShipSystems_mc.gotoAndStop("lightscythe");
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="9" keyMode="9728">
+                                   <Actionscript>
+                                        <script>stop();
+this.Ship_mc.visible = false;
+this.ShipSystems_mc.visible = true;
+this.ShipSystems_mc.gotoAndStop("nautilus");
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="10" keyMode="9728">
+                                   <Actionscript>
+                                        <script>stop();
+this.Ship_mc.visible = true;
+this.ShipSystems_mc.visible = false;
+this.Ship_mc.gotoAndStop("novagalactic");
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="11" keyMode="9728">
+                                   <Actionscript>
+                                        <script>stop();
+this.Ship_mc.visible = false;
+this.ShipSystems_mc.visible = true;
+this.ShipSystems_mc.gotoAndStop("panoptes");
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="12" keyMode="9728">
+                                   <Actionscript>
+                                        <script>stop();
+this.Ship_mc.visible = false;
+this.ShipSystems_mc.visible = true;
+this.ShipSystems_mc.gotoAndStop("protectorate");
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="13" keyMode="9728">
+                                   <Actionscript>
+                                        <script>stop();
+this.Ship_mc.visible = false;
+this.ShipSystems_mc.visible = true;
+this.ShipSystems_mc.gotoAndStop("reladyne");
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="14" keyMode="9728">
+                                   <Actionscript>
+                                        <script>stop();
+this.Ship_mc.visible = false;
+this.ShipSystems_mc.visible = true;
+this.ShipSystems_mc.gotoAndStop("sextant");
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="15" keyMode="9728">
+                                   <Actionscript>
+                                        <script>stop();
+this.Ship_mc.visible = false;
+this.ShipSystems_mc.visible = true;
+this.ShipSystems_mc.gotoAndStop("shinigami");
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="16" keyMode="9728">
+                                   <Actionscript>
+                                        <script>stop();
+this.Ship_mc.visible = false;
+this.ShipSystems_mc.visible = true;
+this.ShipSystems_mc.gotoAndStop("slayton");
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="17" keyMode="9728">
+                                   <Actionscript>
+                                        <script>stop();
+this.Ship_mc.visible = true;
+this.ShipSystems_mc.visible = false;
+this.Ship_mc.gotoAndStop("stroudeklund");
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="18" keyMode="9728">
+                                   <Actionscript>
+                                        <script>stop();
+this.Ship_mc.visible = true;
+this.ShipSystems_mc.visible = false;
+this.Ship_mc.gotoAndStop("taiyo");
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="19" keyMode="9728">
+                                   <Actionscript>
+                                        <script>stop();
+this.Ship_mc.visible = true;
+this.ShipSystems_mc.visible = false;
+this.Ship_mc.gotoAndStop("trident");
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="20" keyMode="9728">
+                                   <Actionscript>
+                                        <script>stop();
+this.Ship_mc.visible = false;
+this.ShipSystems_mc.visible = true;
+this.ShipSystems_mc.gotoAndStop("xiang");
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="21" keyMode="9728">
+                                   <Actionscript>
+                                        <script>stop();
+this.Ship_mc.visible = true;
+this.ShipSystems_mc.visible = false;
+this.Ship_mc.gotoAndStop("crimsonfleet");
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="22" keyMode="9728">
+                                   <Actionscript>
+                                        <script>stop();
+this.Ship_mc.visible = false;
+this.ShipSystems_mc.visible = true;
+this.ShipSystems_mc.gotoAndStop("vanguard");
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 3" color="#feb92f">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 414" name="Ship_mc" centerPoint3DX="206.55" centerPoint3DY="77.7">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.0"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="1" duration="22" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 414" name="Ship_mc" centerPoint3DX="206.55" centerPoint3DY="77.7">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 4" color="#96e4f3">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 331" name="ShipSystems_prop_" centerPoint3DX="0.0" centerPoint3DY="0.0">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.0"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="1" duration="22" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 331" name="ShipSystems_prop_" centerPoint3DX="0.0" centerPoint3DY="0.0">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 5" color="#dc5bb7">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 399" name="ShipSystems" centerPoint3DX="212.15" centerPoint3DY="81.0">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.0"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="1" duration="22" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 399" name="ShipSystems" centerPoint3DX="212.15" centerPoint3DY="81.0">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 6" color="#6285b0" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 367" centerPoint3DX="180.5" centerPoint3DY="63.0">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.19921875"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="1" duration="22" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 367" centerPoint3DX="180.5" centerPoint3DY="63.0">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.0"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timeline>
+</DOMSymbolItem>

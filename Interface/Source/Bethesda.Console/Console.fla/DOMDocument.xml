@@ -1,0 +1,46 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#333333" width="1920" height="1080" frameRate="30" currentTimeline="1" xflVersion="23.0" creatorInfo="Adobe Animate" platform="Windows" versionInfo="Saved by Animate Windows 24.0 build 305" majorVersion="24" buildNumber="305" vanishingPoint3DX="960" vanishingPoint3DY="540" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" autoSaveHasPrompted="true" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="85974C51B742F54CBDABD4B414E2583A">
+     <folders>
+          <DOMFolderItem name="Console" itemID="6643afa0-0000013a" isExpanded="true"/>
+          <DOMFolderItem name="fonts_en" itemID="6643af9a-00000136" isExpanded="true"/>
+     </folders>
+     <fonts>
+          <DOMFontItem name="fonts_en/ConsoleFont" itemID="66438892-00000131" linkageImportForRS="true" linkageExportInFirstFrame="false" linkageClassName="$ConsoleFont" linkageURL="fonts_en.swf" font="Consolas" size="0" id="1" sourceLastImported="1715701906"/>
+     </fonts>
+     <symbols>
+          <Include href="Console/AnimHolder.xml" itemID="6643aff7-0000013f" lastModified="1715712002"/>
+          <Include href="Console/Background.xml" loadImmediate="false" itemID="6643b03d-00000141" lastModified="1715712061"/>
+          <Include href="Console/Console.xml" itemID="6643afbb-0000013d" lastModified="1715712052"/>
+          <Include href="Console/MinimizedPrompt.xml" loadImmediate="false" itemID="6643b010-00000140" lastModified="1715712016"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scene 1">
+               <layers>
+                    <DOMLayer name="AnimHolder_mc" color="#009900" outline="true" current="true" isSelected="true" useOutlineView="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Console/AnimHolder" name="AnimHolder_mc" centerPoint3DX="960" centerPoint3DY="1500.25">
+                                             <matrix>
+                                                  <Matrix ty="1080"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <scripts/>
+     <PrinterSettings/>
+     <publishHistory>
+          <PublishItem publishSize="30328" publishTime="1715714368" publishDebug="true"/>
+          <PublishItem publishSize="30326" publishTime="1715714004" publishDebug="true"/>
+          <PublishItem publishSize="30331" publishTime="1715712289" publishDebug="true"/>
+          <PublishItem publishSize="30345" publishTime="1715712073" publishDebug="true"/>
+          <PublishItem publishSize="30345" publishTime="1715711963" publishDebug="true"/>
+     </publishHistory>
+</DOMDocument>

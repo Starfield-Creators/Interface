@@ -1,0 +1,605 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 261" lastModified="1713310677" linkageClassName="QuestHoldButton" linkageExportForAS="true">
+     <timeline>
+          <DOMTimeline name="Symbol 261">
+               <layers>
+                    <DOMLayer name="Labels Layer" color="#b3f06c">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" keyMode="9728" name="ShowMissionActiveWidget" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="2" duration="58" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="60" keyMode="9728" name="TransitionToAlwaysUp" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="61" duration="29" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="90" keyMode="9728" name="HideMissionActiveWidget" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Script Layer" color="#b120d9">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <Actionscript>
+                                        <script>stop();
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" duration="58" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="59" keyMode="9728">
+                                   <Actionscript>
+                                        <script>stop();
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="60" duration="29" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="89" keyMode="9728">
+                                   <Actionscript>
+                                        <script>stop();
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 3" color="#9a1bcc" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" duration="4" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 73" name="Background_mc" centerPoint3DX="190.0" centerPoint3DY="20.0">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0" a="1.0" d="1.1249847412109375"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.0"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="4" duration="2" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 73" name="Background_mc" centerPoint3DX="190.0" centerPoint3DY="20.0">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0" a="1.0" d="1.1249847412109375"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0" alphaMultiplier="0.5" redOffset="50" greenOffset="50" blueOffset="50"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="6" duration="3" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 73" name="Background_mc" centerPoint3DX="190.0" centerPoint3DY="20.0">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0" a="1.0" d="1.1249847412109375"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.0"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="9" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 73" name="Background_mc" centerPoint3DX="190.0" centerPoint3DY="20.0">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0" a="1.0" d="1.1249847412109375"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0" alphaMultiplier="0.5" redOffset="50" greenOffset="50" blueOffset="50"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="10" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 73" name="Background_mc" centerPoint3DX="190.0" centerPoint3DY="20.0">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0" a="1.0" d="1.1249847412109375"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color redMultiplier="0.5" greenMultiplier="0.5" blueMultiplier="0.5" alphaMultiplier="0.625" redOffset="25" greenOffset="25" blueOffset="25"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="11" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 73" name="Background_mc" centerPoint3DX="190.0" centerPoint3DY="20.0">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0" a="1.0" d="1.1249847412109375"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.75"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="12" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 73" name="Background_mc" centerPoint3DX="190.0" centerPoint3DY="20.0">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0" a="1.0" d="1.1249847412109375"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.625"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="13" duration="2" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 73" name="Background_mc" centerPoint3DX="190.0" centerPoint3DY="20.0">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0" a="1.0" d="1.1249847412109375"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.5"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="15" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 73" name="Background_mc" centerPoint3DX="190.0" centerPoint3DY="20.0">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0" a="1.0" d="1.1249847412109375"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.75"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="16" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 73" name="Background_mc" centerPoint3DX="190.0" centerPoint3DY="20.0">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0" a="1.0" d="1.1249847412109375"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.5"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="17" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 73" name="Background_mc" centerPoint3DX="190.0" centerPoint3DY="20.0">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0" a="1.0" d="1.1249847412109375"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.53515625"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="18" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 73" name="Background_mc" centerPoint3DX="190.0" centerPoint3DY="20.0">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0" a="1.0" d="1.1249847412109375"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.56640625"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="19" duration="41" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 73" name="Background_mc" centerPoint3DX="190.0" centerPoint3DY="20.0">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0" a="1.0" d="1.1249847412109375"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.6015625"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="60" duration="2" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 73" name="Background_mc" centerPoint3DX="190.0" centerPoint3DY="20.0">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0" a="1.0" d="1.1249847412109375"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.75"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="62" duration="2" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 73" name="Background_mc" centerPoint3DX="190.0" centerPoint3DY="20.0">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0" a="1.0" d="1.1249847412109375"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.6015625"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="64" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 73" name="Background_mc" centerPoint3DX="190.0" centerPoint3DY="20.0">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0" a="1.0" d="1.1249847412109375"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.75"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="65" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 73" name="Background_mc" centerPoint3DX="189.65" centerPoint3DY="20.0">
+                                             <matrix>
+                                                  <Matrix tx="-0.35" ty="0.0" a="1.0" d="1.1249542236328125"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.74609375"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="66" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 73" name="Background_mc" centerPoint3DX="188.65" centerPoint3DY="20.0">
+                                             <matrix>
+                                                  <Matrix tx="-1.35" ty="0.0" a="1.0" d="1.1249542236328125"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.73828125"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="67" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 73" name="Background_mc" centerPoint3DX="186.95" centerPoint3DY="20.0">
+                                             <matrix>
+                                                  <Matrix tx="-3.05" ty="0.0" a="1.0" d="1.1249542236328125"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.72265625"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="68" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 73" name="Background_mc" centerPoint3DX="184.55" centerPoint3DY="20.0">
+                                             <matrix>
+                                                  <Matrix tx="-5.45" ty="0.0" a="1.0" d="1.1249542236328125"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.69921875"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="69" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 73" name="Background_mc" centerPoint3DX="181.5" centerPoint3DY="20.0">
+                                             <matrix>
+                                                  <Matrix tx="-8.5" ty="0.0" a="1.0" d="1.1249542236328125"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.671875"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="70" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 73" name="Background_mc" centerPoint3DX="177.75" centerPoint3DY="20.0">
+                                             <matrix>
+                                                  <Matrix tx="-12.25" ty="0.0" a="1.0" d="1.1249542236328125"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.63671875"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="71" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 73" name="Background_mc" centerPoint3DX="173.35" centerPoint3DY="20.0">
+                                             <matrix>
+                                                  <Matrix tx="-16.65" ty="0.0" a="1.0" d="1.1249542236328125"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.59765625"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="72" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 73" name="Background_mc" centerPoint3DX="168.2" centerPoint3DY="20.0">
+                                             <matrix>
+                                                  <Matrix tx="-21.8" ty="0.0" a="1.0" d="1.1249542236328125"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.55078125"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="73" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 73" name="Background_mc" centerPoint3DX="162.45" centerPoint3DY="20.0">
+                                             <matrix>
+                                                  <Matrix tx="-27.55" ty="0.0" a="1.0" d="1.1249542236328125"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.49609375"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="74" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 73" name="Background_mc" centerPoint3DX="155.95" centerPoint3DY="20.0">
+                                             <matrix>
+                                                  <Matrix tx="-34.05" ty="0.0" a="1.0" d="1.1249542236328125"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.4375"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="75" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 73" name="Background_mc" centerPoint3DX="148.85" centerPoint3DY="20.0">
+                                             <matrix>
+                                                  <Matrix tx="-41.15" ty="0.0" a="1.0" d="1.1249542236328125"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.37109375"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="76" duration="14" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 73" name="Background_mc" centerPoint3DX="141.0" centerPoint3DY="20.0">
+                                             <matrix>
+                                                  <Matrix tx="-49.0" ty="0.0" a="1.0" d="1.1249847412109375"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.30078125"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="90" duration="2" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 73" name="Background_mc" centerPoint3DX="190.0" centerPoint3DY="20.0">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0" a="1.0" d="1.1249847412109375"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.75"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="92" duration="2" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 73" name="Background_mc" centerPoint3DX="190.0" centerPoint3DY="20.0">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0" a="1.0" d="1.1249847412109375"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.6015625"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="94" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 73" name="Background_mc" centerPoint3DX="190.0" centerPoint3DY="20.0">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0" a="1.0" d="1.1249847412109375"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.75"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="95" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 73" name="Background_mc" centerPoint3DX="190.0" centerPoint3DY="20.0">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0" a="1.0" d="1.1249847412109375"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.6015625"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="96" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 73" name="Background_mc" centerPoint3DX="190.0" centerPoint3DY="20.0">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0" a="1.0" d="1.1249847412109375"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.44921875"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="97" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 73" name="Background_mc" centerPoint3DX="190.0" centerPoint3DY="20.0">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0" a="1.0" d="1.1249847412109375"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.30078125"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="98" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 73" name="Background_mc" centerPoint3DX="190.0" centerPoint3DY="20.0">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0" a="1.0" d="1.1249847412109375"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.1484375"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="99" duration="21" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 73" name="Background_mc" centerPoint3DX="190.0" centerPoint3DY="20.0">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0" a="1.0" d="1.1249847412109375"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.0"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timeline>
+</DOMSymbolItem>

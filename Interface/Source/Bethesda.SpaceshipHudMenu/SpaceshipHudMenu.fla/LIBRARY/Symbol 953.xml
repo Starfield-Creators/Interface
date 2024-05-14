@@ -1,0 +1,73 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 953" lastModified="1713310678">
+     <timeline>
+          <DOMTimeline name="Symbol 953">
+               <layers>
+                    <DOMLayer name="Labels Layer" color="#e9bfc0">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728" name="Normal" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" keyMode="9728" name="Damaged" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 2" color="#5bf57b">
+                         <frames>
+                              <DOMFrame index="0" duration="2" keyMode="9728">
+                                   <elements>
+                                        <DOMDynamicText name="Button_mc" antiAliasSharpness="0" antiAliasThickness="0" width="144.2" height="13.350000000000001" renderAsHTML="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="80.0" ty="28.05"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>INIT PROCESS...</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" lineSpacing="2.0" rightMargin="0.0" size="12" bitmapSize="240" face="" fillColor="#a7dadb"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 3" color="#ab6991" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 3963" name="Background_mc" centerPoint3DX="76.5" centerPoint3DY="332.15">
+                                             <matrix>
+                                                  <Matrix tx="-3.25" ty="-12.1" a="1.37969970703125" d="1.3770751953125"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.0"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="1" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 3963" name="Background_mc" centerPoint3DX="76.5" centerPoint3DY="332.15">
+                                             <matrix>
+                                                  <Matrix tx="-3.25" ty="-12.1" a="1.379150390625" d="1.377777099609375"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0" redOffset="199" greenOffset="55" blueOffset="56"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timeline>
+</DOMSymbolItem>

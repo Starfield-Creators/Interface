@@ -1,0 +1,62 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 4125" lastModified="1713310677">
+     <timeline>
+          <DOMTimeline name="Symbol 4125">
+               <layers>
+                    <DOMLayer name="Labels Layer" color="#99c1b1">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728" name="Mine" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" keyMode="9728" name="Grenade" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 2" color="#85da5d">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 7" name="Icon_mc" centerPoint3DX="14.85" centerPoint3DY="147.15">
+                                             <matrix>
+                                                  <Matrix tx="0.35" ty="134.15" a="0.9056396484375" d="0.90447998046875"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="1" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 14" name="Icon_mc" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="0.5" ty="134.2" a="0.9056396484375" d="0.90447998046875"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 3" color="#d1728e" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" duration="2" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 4" name="Arrow_mc" centerPoint3DX="19.35" centerPoint3DY="19.45">
+                                             <matrix>
+                                                  <Matrix tx="0.35" ty="0.45" a="0.0" d="0.0" b="1.0" c="-1.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timeline>
+</DOMSymbolItem>

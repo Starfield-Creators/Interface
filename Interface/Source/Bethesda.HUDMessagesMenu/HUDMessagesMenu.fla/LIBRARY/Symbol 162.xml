@@ -1,0 +1,68 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 162" lastModified="1713310677">
+     <timeline>
+          <DOMTimeline name="Symbol 162">
+               <layers>
+                    <DOMLayer name="Layer 1" color="#96b649">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMDynamicText name="LocationText_tf" antiAliasSharpness="0" antiAliasThickness="0" width="1330.0" height="36.0" renderAsHTML="true" isSelectable="false" lineType="multiline no wrap">
+                                             <matrix>
+                                                  <Matrix tx="-665.0" ty="-16.0"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>LOCATION NAME</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" rotation="true" indent="0.0" leftMargin="0.0" autoKern="false" letterSpacing="4.0" lineSpacing="2.0" rightMargin="0.0" size="36" bitmapSize="720" face="" fillColor="#39abc2"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                             <filters>
+                                                  <DropShadowFilter angle="44.999253346524966" blurX="0" blurY="0" color="#000000" distance="2" quality="1" strength="1"/>
+                                             </filters>
+                                        </DOMDynamicText>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 2" color="#b07dbc" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMShape isFloating="true">
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <LinearGradient>
+                                                            <matrix>
+                                                                 <Matrix tx="240.0" ty="10.4" a="-0.29296875" d="0.042022705078125"/>
+                                                            </matrix>
+                                                            <GradientEntry color="#101010" alpha="0.0" ratio="0.0"/>
+                                                            <GradientEntry color="#101010" alpha="1.0" ratio="0.7411765"/>
+                                                       </LinearGradient>
+                                                  </FillStyle>
+                                                  <FillStyle index="2">
+                                                       <LinearGradient>
+                                                            <matrix>
+                                                                 <Matrix tx="-240.0" ty="10.4" a="0.29296875" d="0.042022705078125"/>
+                                                            </matrix>
+                                                            <GradientEntry color="#101010" alpha="0.0" ratio="0.0"/>
+                                                            <GradientEntry color="#101010" alpha="1.0" ratio="0.7411765"/>
+                                                       </LinearGradient>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes/>
+                                             <edges>
+                                                  <Edge fillStyle0="1" fillStyle1="0" strokeStyle="0" edges="! 0 490| 9600 490| 9600 -480| 0 -480"/>
+                                                  <Edge fillStyle0="1" fillStyle1="2" strokeStyle="0" edges="! 0 -480| 0 490"/>
+                                                  <Edge fillStyle0="0" fillStyle1="2" strokeStyle="0" edges="! 0 490| -9600 490| -9600 -480| 0 -480"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,121 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Console/Console" itemID="6643afbb-0000013d" linkageExportForAS="true" linkageClassName="Console" lastModified="1715712052">
+  <timeline>
+    <DOMTimeline name="Console">
+      <layers>
+        <DOMLayer name="MinimizedPrompt_mc" color="#EEDFAD" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Console/MinimizedPrompt" name="MinimizedPrompt_mc" centerPoint3DX="169.2" centerPoint3DY="-483.85">
+                  <matrix>
+                    <Matrix tx="70.5" ty="-500"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="CommandPrompt_tf" color="#7F42FB" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="CommandPrompt_tf" selected="true" width="54" height="23.4" renderAsHTML="true">
+                  <matrix>
+                    <Matrix tx="72" ty="-83"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>--- </characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" rotation="true" letterSpacing="1" lineHeight="23.4" size="20" bitmapSize="400" face="ConsoleFont*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="CurrentSelection" color="#1CAFD9" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="CurrentSelection" selected="true" width="1596" height="23.4" isSelectable="false" renderAsHTML="true">
+                  <matrix>
+                    <Matrix tx="72" ty="-388"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Text</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" rotation="true" letterSpacing="2" lineHeight="23.4" size="20" bitmapSize="400" face="ConsoleFont*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="CommandHistory" color="#666FF0" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="CommandHistory" selected="true" width="1790.9" height="241.1" isSelectable="false" renderAsHTML="true" lineType="multiline">
+                  <matrix>
+                    <Matrix a="1.00283813476562" tx="72" ty="-341"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Text</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" rotation="true" letterSpacing="2" lineHeight="21.05" size="18" bitmapSize="360" face="ConsoleFont*" fillColor="#999999"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="CommandEntry" color="#B16AAD" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMInputText name="CommandEntry" selected="true" width="1691.2" height="23.4" renderAsHTML="true">
+                  <matrix>
+                    <Matrix a="1.00283813476562" tx="132.15" ty="-83"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Text</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" rotation="true" letterSpacing="1" lineHeight="23.4" size="20" bitmapSize="400" face="ConsoleFont*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMInputText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Background" color="#9CD465" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Console/Background" name="Background" centerPoint3DX="960" centerPoint3DY="216">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

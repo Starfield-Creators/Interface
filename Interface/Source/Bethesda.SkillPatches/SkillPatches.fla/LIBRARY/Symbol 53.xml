@@ -1,0 +1,1270 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 53" lastModified="1713310678" linkageClassName="Patch_Container_3" linkageExportForAS="true">
+     <timeline>
+          <DOMTimeline name="Symbol 53">
+               <layers>
+                    <DOMLayer name="Labels Layer" color="#5d83e9">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728" name="rollOn" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" keyMode="9728" name="ConfirmPurchase" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="2" duration="7" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="9" keyMode="9728" name="ConfirmNew" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Script Layer" color="#a069b6">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <Actionscript>
+                                        <script>stop();
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" duration="8" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="9" keyMode="9728">
+                                   <Actionscript>
+                                        <script>dispatchEvent(new Event("TIMELINE_CONFIRM_NEW"));
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="10" duration="21" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="31" keyMode="9728">
+                                   <Actionscript>
+                                        <script>stop();
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 3" color="#88be4a">
+                         <frames>
+                              <DOMFrame index="0" duration="32" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 52" name="RollOnOffCatcher_mc" centerPoint3DX="-0.5" centerPoint3DY="-13.15">
+                                             <matrix>
+                                                  <Matrix tx="-60.0" ty="-70.5"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.0"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 4" color="#f96bf3">
+                         <frames>
+                              <DOMFrame index="0" duration="32" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 50" name="Highlight_mc" centerPoint3DX="74.35" centerPoint3DY="62.9">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="-14.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 5" color="#e0368c">
+                         <frames>
+                              <DOMFrame index="0" duration="2" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 33" name="PatchArtClip_mc" centerPoint3DX="0.0" centerPoint3DY="-30.0">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="-30.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="2" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 33" name="PatchArtClip_mc" centerPoint3DX="0.0" centerPoint3DY="-30.0">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="-30.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.921875"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="3" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 33" name="PatchArtClip_mc" centerPoint3DX="0.0" centerPoint3DY="-30.0">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="-30.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.6796875"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="4" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 33" name="PatchArtClip_mc" centerPoint3DX="0.0" centerPoint3DY="-30.0">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="-30.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.3203125"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="5" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 33" name="PatchArtClip_mc" centerPoint3DX="0.0" centerPoint3DY="-30.0">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="-30.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.078125"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="6" duration="4" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 33" name="PatchArtClip_mc" centerPoint3DX="0.0" centerPoint3DY="-30.0">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="-30.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.0"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="10" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 33" name="PatchArtClip_mc" centerPoint3DX="0.0" centerPoint3DY="-30.0">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="-30.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.16796875"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="11" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 33" name="PatchArtClip_mc" centerPoint3DX="0.0" centerPoint3DY="-30.0">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="-30.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.33203125"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="12" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 33" name="PatchArtClip_mc" centerPoint3DX="0.0" centerPoint3DY="-30.0">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="-30.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.5"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="13" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 33" name="PatchArtClip_mc" centerPoint3DX="0.0" centerPoint3DY="-30.0">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="-30.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.66796875"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="14" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 33" name="PatchArtClip_mc" centerPoint3DX="0.0" centerPoint3DY="-30.0">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="-30.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.83203125"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="15" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 33" name="PatchArtClip_mc" centerPoint3DX="0.0" centerPoint3DY="-30.0">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="-30.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="16" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 33" name="PatchArtClip_mc" centerPoint3DX="0.0" centerPoint3DY="-30.0">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="-30.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0" redOffset="255" greenOffset="255" blueOffset="255"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="17" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 33" name="PatchArtClip_mc" centerPoint3DX="0.0" centerPoint3DY="-30.0">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="-30.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="18" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 33" name="PatchArtClip_mc" centerPoint3DX="0.0" centerPoint3DY="-30.0">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="-30.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0" redOffset="255" greenOffset="255" blueOffset="255"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="19" duration="13" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 33" name="PatchArtClip_mc" centerPoint3DX="0.0" centerPoint3DY="-30.0">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="-30.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 6" color="#e5953f">
+                         <frames>
+                              <DOMFrame index="0" duration="32" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 45" name="SkillNameplate_mc" centerPoint3DX="0.1" centerPoint3DY="30.0">
+                                             <matrix>
+                                                  <Matrix tx="-60.0" ty="15.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 7" color="#bdaf9b">
+                         <frames>
+                              <DOMFrame index="0" duration="32" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 32" name="SkillHighlight_mc" centerPoint3DX="32.05" centerPoint3DY="13.05">
+                                             <matrix>
+                                                  <Matrix tx="0.05" ty="-29.25" a="1.017547607421875" d="1.01165771484375"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 8" color="#d7f23b">
+                         <frames>
+                              <DOMFrame index="0" duration="2" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 29" name="PatchBackground_mc" centerPoint3DX="30.2" centerPoint3DY="10.85">
+                                             <matrix>
+                                                  <Matrix tx="0.1" ty="-29.2"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="2" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 29" name="PatchBackground_mc" centerPoint3DX="30.2" centerPoint3DY="10.85">
+                                             <matrix>
+                                                  <Matrix tx="0.1" ty="-29.2" a="0.9795989990234375" d="0.979583740234375"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.921875"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="3" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 29" name="PatchBackground_mc" centerPoint3DX="30.2" centerPoint3DY="10.85">
+                                             <matrix>
+                                                  <Matrix tx="0.1" ty="-29.2" a="0.918365478515625" d="0.9183197021484375"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.6796875"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="4" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 29" name="PatchBackground_mc" centerPoint3DX="30.2" centerPoint3DY="10.85">
+                                             <matrix>
+                                                  <Matrix tx="0.1" ty="-29.2" a="0.8265228271484375" d="0.826416015625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.3203125"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="5" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 29" name="PatchBackground_mc" centerPoint3DX="30.2" centerPoint3DY="10.85">
+                                             <matrix>
+                                                  <Matrix tx="0.1" ty="-29.2" a="0.765289306640625" d="0.7651519775390625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.078125"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="6" duration="4" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 29" name="PatchBackground_mc" centerPoint3DX="30.2" centerPoint3DY="10.9">
+                                             <matrix>
+                                                  <Matrix tx="0.1" ty="-29.15" a="0.744873046875" d="0.7447357177734375"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.0"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="10" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 29" name="PatchBackground_mc" centerPoint3DX="30.2" centerPoint3DY="10.9">
+                                             <matrix>
+                                                  <Matrix tx="0.1" ty="-29.15" a="0.7873687744140625" d="0.787261962890625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.16796875"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="11" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 29" name="PatchBackground_mc" centerPoint3DX="30.2" centerPoint3DY="10.9">
+                                             <matrix>
+                                                  <Matrix tx="0.1" ty="-29.15" a="0.82989501953125" d="0.829803466796875"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.33203125"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="12" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 29" name="PatchBackground_mc" centerPoint3DX="30.2" centerPoint3DY="10.9">
+                                             <matrix>
+                                                  <Matrix tx="0.1" ty="-29.15" a="0.872406005859375" d="0.8723602294921875"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.5"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="13" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 29" name="PatchBackground_mc" centerPoint3DX="30.2" centerPoint3DY="10.9">
+                                             <matrix>
+                                                  <Matrix tx="0.1" ty="-29.15" a="0.914947509765625" d="0.9149017333984375"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.66796875"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="14" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 29" name="PatchBackground_mc" centerPoint3DX="30.2" centerPoint3DY="10.9">
+                                             <matrix>
+                                                  <Matrix tx="0.1" ty="-29.15" a="0.95745849609375" d="0.9574432373046875"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.83203125"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="15" duration="17" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 29" name="PatchBackground_mc" centerPoint3DX="30.2" centerPoint3DY="10.85">
+                                             <matrix>
+                                                  <Matrix tx="0.1" ty="-29.2"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 9" color="#f03dcb">
+                         <frames>
+                              <DOMFrame index="0" duration="9" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 38" name="PatchBackground_Frame_mc" centerPoint3DX="26.95" centerPoint3DY="7.6">
+                                             <matrix>
+                                                  <Matrix tx="0.1" ty="-29.2"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0" alphaMultiplier="0.0" redOffset="153" greenOffset="153" blueOffset="153"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="9" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 38" name="PatchBackground_Frame_mc" centerPoint3DX="26.95" centerPoint3DY="7.65">
+                                             <matrix>
+                                                  <Matrix tx="0.1" ty="-29.15" a="0.744873046875" d="0.7447357177734375"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0" alphaMultiplier="0.80078125" redOffset="153" greenOffset="153" blueOffset="153"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="10" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 38" name="PatchBackground_Frame_mc" centerPoint3DX="26.95" centerPoint3DY="7.65">
+                                             <matrix>
+                                                  <Matrix tx="0.1" ty="-29.15" a="0.7873687744140625" d="0.787261962890625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0" alphaMultiplier="0.8359375" redOffset="153" greenOffset="153" blueOffset="153"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="11" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 38" name="PatchBackground_Frame_mc" centerPoint3DX="26.95" centerPoint3DY="7.65">
+                                             <matrix>
+                                                  <Matrix tx="0.1" ty="-29.15" a="0.82989501953125" d="0.829803466796875"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0" alphaMultiplier="0.8671875" redOffset="153" greenOffset="153" blueOffset="153"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="12" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 38" name="PatchBackground_Frame_mc" centerPoint3DX="26.95" centerPoint3DY="7.65">
+                                             <matrix>
+                                                  <Matrix tx="0.1" ty="-29.15" a="0.872406005859375" d="0.8723602294921875"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0" alphaMultiplier="0.90234375" redOffset="153" greenOffset="153" blueOffset="153"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="13" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 38" name="PatchBackground_Frame_mc" centerPoint3DX="26.95" centerPoint3DY="7.65">
+                                             <matrix>
+                                                  <Matrix tx="0.1" ty="-29.15" a="0.914947509765625" d="0.9149017333984375"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0" alphaMultiplier="0.93359375" redOffset="153" greenOffset="153" blueOffset="153"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="14" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 38" name="PatchBackground_Frame_mc" centerPoint3DX="26.95" centerPoint3DY="7.65">
+                                             <matrix>
+                                                  <Matrix tx="0.1" ty="-29.15" a="0.95745849609375" d="0.9574432373046875"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0" alphaMultiplier="0.96484375" redOffset="153" greenOffset="153" blueOffset="153"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="15" duration="2" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 38" name="PatchBackground_Frame_mc" centerPoint3DX="26.95" centerPoint3DY="7.6">
+                                             <matrix>
+                                                  <Matrix tx="0.1" ty="-29.2"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0" redOffset="153" greenOffset="153" blueOffset="153"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="17" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 38" name="PatchBackground_Frame_mc" centerPoint3DX="26.95" centerPoint3DY="7.6">
+                                             <matrix>
+                                                  <Matrix tx="0.1" ty="-29.2"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0" redOffset="255" greenOffset="255" blueOffset="255"/>
+                                             </color>
+                                             <filters>
+                                                  <GlowFilter blurX="20" blurY="20" color="#ffffff" quality="3" strength="0.8"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="18" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 38" name="PatchBackground_Frame_mc" centerPoint3DX="26.95" centerPoint3DY="7.6">
+                                             <matrix>
+                                                  <Matrix tx="0.1" ty="-29.2" a="1.0283355712890625" d="1.0283203125"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0" alphaMultiplier="0.9296875" redOffset="248" greenOffset="248" blueOffset="248"/>
+                                             </color>
+                                             <filters>
+                                                  <GlowFilter blurX="18.57147216796875" blurY="18.57147216796875" color="#ffffff" quality="3" strength="0.74"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="19" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 38" name="PatchBackground_Frame_mc" centerPoint3DX="26.95" centerPoint3DY="7.6">
+                                             <matrix>
+                                                  <Matrix tx="0.1" ty="-29.2" a="1.0566558837890625" d="1.056640625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0" alphaMultiplier="0.85546875" redOffset="240" greenOffset="240" blueOffset="240"/>
+                                             </color>
+                                             <filters>
+                                                  <GlowFilter blurX="17.1429443359375" blurY="17.1429443359375" color="#ffffff" quality="3" strength="0.68"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="20" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 38" name="PatchBackground_Frame_mc" centerPoint3DX="26.95" centerPoint3DY="7.6">
+                                             <matrix>
+                                                  <Matrix tx="0.1" ty="-29.2" a="1.084991455078125" d="1.0849609375"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0" alphaMultiplier="0.78515625" redOffset="233" greenOffset="233" blueOffset="233"/>
+                                             </color>
+                                             <filters>
+                                                  <GlowFilter blurX="15.71441650390625" blurY="15.71441650390625" color="#ffffff" quality="3" strength="0.62"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="21" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 38" name="PatchBackground_Frame_mc" centerPoint3DX="26.95" centerPoint3DY="7.6">
+                                             <matrix>
+                                                  <Matrix tx="0.1" ty="-29.2" a="1.1133270263671875" d="1.11328125"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0" alphaMultiplier="0.71484375" redOffset="226" greenOffset="226" blueOffset="226"/>
+                                             </color>
+                                             <filters>
+                                                  <GlowFilter blurX="14.28558349609375" blurY="14.28558349609375" color="#ffffff" quality="3" strength="0.57"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="22" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 38" name="PatchBackground_Frame_mc" centerPoint3DX="26.95" centerPoint3DY="7.6">
+                                             <matrix>
+                                                  <Matrix tx="0.1" ty="-29.2" a="1.14166259765625" d="1.1416015625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0" alphaMultiplier="0.64453125" redOffset="219" greenOffset="219" blueOffset="219"/>
+                                             </color>
+                                             <filters>
+                                                  <GlowFilter blurX="12.8570556640625" blurY="12.8570556640625" color="#ffffff" quality="3" strength="0.51"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="23" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 38" name="PatchBackground_Frame_mc" centerPoint3DX="26.95" centerPoint3DY="7.6">
+                                             <matrix>
+                                                  <Matrix tx="0.1" ty="-29.2" a="1.1699981689453125" d="1.169921875"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0" alphaMultiplier="0.5703125" redOffset="211" greenOffset="211" blueOffset="211"/>
+                                             </color>
+                                             <filters>
+                                                  <GlowFilter blurX="11.42852783203125" blurY="11.42852783203125" color="#ffffff" quality="3" strength="0.45"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="24" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 38" name="PatchBackground_Frame_mc" centerPoint3DX="26.95" centerPoint3DY="7.6">
+                                             <matrix>
+                                                  <Matrix tx="0.1" ty="-29.2" a="1.198333740234375" d="1.1982421875"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0" alphaMultiplier="0.5" redOffset="204" greenOffset="204" blueOffset="204"/>
+                                             </color>
+                                             <filters>
+                                                  <GlowFilter blurX="10" blurY="10" color="#ffffff" quality="3" strength="0.4"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="25" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 38" name="PatchBackground_Frame_mc" centerPoint3DX="26.95" centerPoint3DY="7.55">
+                                             <matrix>
+                                                  <Matrix tx="0.1" ty="-29.25" a="1.226654052734375" d="1.2265472412109375"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0" alphaMultiplier="0.4296875" redOffset="197" greenOffset="197" blueOffset="197"/>
+                                             </color>
+                                             <filters>
+                                                  <GlowFilter blurX="8.57147216796875" blurY="8.57147216796875" color="#ffffff" quality="3" strength="0.34"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="26" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 38" name="PatchBackground_Frame_mc" centerPoint3DX="26.95" centerPoint3DY="7.55">
+                                             <matrix>
+                                                  <Matrix tx="0.1" ty="-29.25" a="1.2549896240234375" d="1.2548675537109375"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0" alphaMultiplier="0.35546875" redOffset="189" greenOffset="189" blueOffset="189"/>
+                                             </color>
+                                             <filters>
+                                                  <GlowFilter blurX="7.1429443359375" blurY="7.1429443359375" color="#ffffff" quality="3" strength="0.28"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="27" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 38" name="PatchBackground_Frame_mc" centerPoint3DX="26.95" centerPoint3DY="7.55">
+                                             <matrix>
+                                                  <Matrix tx="0.1" ty="-29.25" a="1.2833251953125" d="1.2831878662109375"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0" alphaMultiplier="0.28515625" redOffset="182" greenOffset="182" blueOffset="182"/>
+                                             </color>
+                                             <filters>
+                                                  <GlowFilter blurX="5.71441650390625" blurY="5.71441650390625" color="#ffffff" quality="3" strength="0.22"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="28" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 38" name="PatchBackground_Frame_mc" centerPoint3DX="26.95" centerPoint3DY="7.55">
+                                             <matrix>
+                                                  <Matrix tx="0.1" ty="-29.25" a="1.3116607666015625" d="1.3115081787109375"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0" alphaMultiplier="0.21484375" redOffset="175" greenOffset="175" blueOffset="175"/>
+                                             </color>
+                                             <filters>
+                                                  <GlowFilter blurX="4.28558349609375" blurY="4.28558349609375" color="#ffffff" quality="3" strength="0.17"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="29" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 38" name="PatchBackground_Frame_mc" centerPoint3DX="26.95" centerPoint3DY="7.55">
+                                             <matrix>
+                                                  <Matrix tx="0.1" ty="-29.25" a="1.339996337890625" d="1.3398284912109375"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0" alphaMultiplier="0.14453125" redOffset="168" greenOffset="168" blueOffset="168"/>
+                                             </color>
+                                             <filters>
+                                                  <GlowFilter blurX="2.8570556640625" blurY="2.8570556640625" color="#ffffff" quality="3" strength="0.11"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="30" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 38" name="PatchBackground_Frame_mc" centerPoint3DX="26.95" centerPoint3DY="7.55">
+                                             <matrix>
+                                                  <Matrix tx="0.1" ty="-29.25" a="1.368316650390625" d="1.3681488037109375"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0" alphaMultiplier="0.0703125" redOffset="160" greenOffset="160" blueOffset="160"/>
+                                             </color>
+                                             <filters>
+                                                  <GlowFilter blurX="1.42852783203125" blurY="1.42852783203125" color="#ffffff" quality="3" strength="0.05"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="31" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 38" name="PatchBackground_Frame_mc" centerPoint3DX="26.9" centerPoint3DY="7.6">
+                                             <matrix>
+                                                  <Matrix tx="0.05" ty="-29.2" a="1.3966522216796875" d="1.3964691162109375"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0" alphaMultiplier="0.0" redOffset="153" greenOffset="153" blueOffset="153"/>
+                                             </color>
+                                             <filters/>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 10" color="#b0f85a" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" duration="9" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 36" name="PatchBackground_BG_mc" centerPoint3DX="26.2" centerPoint3DY="6.85">
+                                             <matrix>
+                                                  <Matrix tx="0.1" ty="-29.2"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0" alphaMultiplier="0.0" redOffset="153" greenOffset="153" blueOffset="153"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="9" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 36" name="PatchBackground_BG_mc" centerPoint3DX="26.15" centerPoint3DY="6.85">
+                                             <matrix>
+                                                  <Matrix tx="0.05" ty="-29.2" a="0.7662811279296875" d="0.7657623291015625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0" alphaMultiplier="0.80078125" redOffset="153" greenOffset="153" blueOffset="153"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="10" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 36" name="PatchBackground_BG_mc" centerPoint3DX="26.15" centerPoint3DY="6.9">
+                                             <matrix>
+                                                  <Matrix tx="0.05" ty="-29.15" a="0.8052215576171875" d="0.8047943115234375"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0" alphaMultiplier="0.8359375" redOffset="153" greenOffset="153" blueOffset="153"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="11" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 36" name="PatchBackground_BG_mc" centerPoint3DX="26.15" centerPoint3DY="6.85">
+                                             <matrix>
+                                                  <Matrix tx="0.05" ty="-29.2" a="0.8441619873046875" d="0.8438262939453125"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0" alphaMultiplier="0.8671875" redOffset="153" greenOffset="153" blueOffset="153"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="12" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 36" name="PatchBackground_BG_mc" centerPoint3DX="26.15" centerPoint3DY="6.85">
+                                             <matrix>
+                                                  <Matrix tx="0.05" ty="-29.2" a="0.8831329345703125" d="0.88287353515625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0" alphaMultiplier="0.90234375" redOffset="153" greenOffset="153" blueOffset="153"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="13" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 36" name="PatchBackground_BG_mc" centerPoint3DX="26.15" centerPoint3DY="6.85">
+                                             <matrix>
+                                                  <Matrix tx="0.05" ty="-29.2" a="0.92205810546875" d="0.9218902587890625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0" alphaMultiplier="0.93359375" redOffset="153" greenOffset="153" blueOffset="153"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="14" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 36" name="PatchBackground_BG_mc" centerPoint3DX="26.15" centerPoint3DY="6.9">
+                                             <matrix>
+                                                  <Matrix tx="0.05" ty="-29.15" a="0.961029052734375" d="0.9609375"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0" alphaMultiplier="0.96484375" redOffset="153" greenOffset="153" blueOffset="153"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="15" duration="3" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 36" name="PatchBackground_BG_mc" centerPoint3DX="26.2" centerPoint3DY="6.85">
+                                             <matrix>
+                                                  <Matrix tx="0.1" ty="-29.2"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0" redOffset="153" greenOffset="153" blueOffset="153"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="18" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 36" name="PatchBackground_BG_mc" centerPoint3DX="26.2" centerPoint3DY="6.85">
+                                             <matrix>
+                                                  <Matrix tx="0.1" ty="-29.2" a="1.0312042236328125" d="1.03118896484375"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0" alphaMultiplier="0.9296875" redOffset="153" greenOffset="153" blueOffset="153"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="19" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 36" name="PatchBackground_BG_mc" centerPoint3DX="26.2" centerPoint3DY="6.85">
+                                             <matrix>
+                                                  <Matrix tx="0.1" ty="-29.2" a="1.0623931884765625" d="1.0623626708984375"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0" alphaMultiplier="0.85546875" redOffset="153" greenOffset="153" blueOffset="153"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="20" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 36" name="PatchBackground_BG_mc" centerPoint3DX="26.2" centerPoint3DY="6.85">
+                                             <matrix>
+                                                  <Matrix tx="0.1" ty="-29.2" a="1.093597412109375" d="1.0935516357421875"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0" alphaMultiplier="0.78515625" redOffset="153" greenOffset="153" blueOffset="153"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="21" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 36" name="PatchBackground_BG_mc" centerPoint3DX="26.2" centerPoint3DY="6.85">
+                                             <matrix>
+                                                  <Matrix tx="0.1" ty="-29.2" a="1.124786376953125" d="1.1247406005859375"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0" alphaMultiplier="0.71484375" redOffset="153" greenOffset="153" blueOffset="153"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="22" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 36" name="PatchBackground_BG_mc" centerPoint3DX="26.2" centerPoint3DY="6.85">
+                                             <matrix>
+                                                  <Matrix tx="0.1" ty="-29.2" a="1.1559906005859375" d="1.1559295654296875"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0" alphaMultiplier="0.64453125" redOffset="153" greenOffset="153" blueOffset="153"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="23" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 36" name="PatchBackground_BG_mc" centerPoint3DX="26.2" centerPoint3DY="6.85">
+                                             <matrix>
+                                                  <Matrix tx="0.1" ty="-29.2" a="1.1871795654296875" d="1.187103271484375"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0" alphaMultiplier="0.5703125" redOffset="153" greenOffset="153" blueOffset="153"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="24" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 36" name="PatchBackground_BG_mc" centerPoint3DX="26.2" centerPoint3DY="6.85">
+                                             <matrix>
+                                                  <Matrix tx="0.1" ty="-29.2" a="1.2183837890625" d="1.218292236328125"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0" alphaMultiplier="0.5" redOffset="153" greenOffset="153" blueOffset="153"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="25" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 36" name="PatchBackground_BG_mc" centerPoint3DX="26.2" centerPoint3DY="6.85">
+                                             <matrix>
+                                                  <Matrix tx="0.1" ty="-29.2" a="1.2495880126953125" d="1.249481201171875"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0" alphaMultiplier="0.4296875" redOffset="153" greenOffset="153" blueOffset="153"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="26" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 36" name="PatchBackground_BG_mc" centerPoint3DX="26.2" centerPoint3DY="6.85">
+                                             <matrix>
+                                                  <Matrix tx="0.1" ty="-29.2" a="1.2807769775390625" d="1.2806549072265625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0" alphaMultiplier="0.35546875" redOffset="153" greenOffset="153" blueOffset="153"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="27" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 36" name="PatchBackground_BG_mc" centerPoint3DX="26.2" centerPoint3DY="6.85">
+                                             <matrix>
+                                                  <Matrix tx="0.1" ty="-29.2" a="1.311981201171875" d="1.3118438720703125"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0" alphaMultiplier="0.28515625" redOffset="153" greenOffset="153" blueOffset="153"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="28" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 36" name="PatchBackground_BG_mc" centerPoint3DX="26.2" centerPoint3DY="6.85">
+                                             <matrix>
+                                                  <Matrix tx="0.1" ty="-29.2" a="1.343170166015625" d="1.3430328369140625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0" alphaMultiplier="0.21484375" redOffset="153" greenOffset="153" blueOffset="153"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="29" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 36" name="PatchBackground_BG_mc" centerPoint3DX="26.2" centerPoint3DY="6.85">
+                                             <matrix>
+                                                  <Matrix tx="0.1" ty="-29.2" a="1.3743743896484375" d="1.3742218017578125"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0" alphaMultiplier="0.14453125" redOffset="153" greenOffset="153" blueOffset="153"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="30" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 36" name="PatchBackground_BG_mc" centerPoint3DX="26.2" centerPoint3DY="6.85">
+                                             <matrix>
+                                                  <Matrix tx="0.1" ty="-29.2" a="1.4055633544921875" d="1.4053955078125"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0" alphaMultiplier="0.0703125" redOffset="153" greenOffset="153" blueOffset="153"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="31" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 36" name="PatchBackground_BG_mc" centerPoint3DX="26.15" centerPoint3DY="6.9">
+                                             <matrix>
+                                                  <Matrix tx="0.05" ty="-29.15" a="1.436767578125" d="1.43658447265625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0" alphaMultiplier="0.0" redOffset="153" greenOffset="153" blueOffset="153"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timeline>
+</DOMSymbolItem>

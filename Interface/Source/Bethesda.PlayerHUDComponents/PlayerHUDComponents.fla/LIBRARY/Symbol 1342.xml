@@ -1,0 +1,831 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 1342" lastModified="1713310678" linkageClassName="PlayerHudComponents_fla.jetPack_MeterWide_mc_15" linkageExportForAS="true">
+     <timeline>
+          <DOMTimeline name="Symbol 1342">
+               <layers>
+                    <DOMLayer name="Script Layer" color="#e5fd18">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <Actionscript>
+                                        <script>stop();
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 2" color="#add841">
+                         <frames>
+                              <DOMFrame index="0" duration="60" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1340" name="Boost_mc" centerPoint3DX="36.55" centerPoint3DY="-11.55">
+                                             <matrix>
+                                                  <Matrix tx="-2.3" ty="-20.55"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <DropShadowFilter angle="44.999253346524966" blurX="0" blurY="0" color="#000000" distance="1" quality="1" strength="1"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 3" color="#04d7b8" layerType="mask" locked="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1341" name="HealthBarFillMask_mc" centerPoint3DX="143.25" centerPoint3DY="3.75">
+                                             <matrix>
+                                                  <Matrix tx="-6.75" ty="-2.25" a="1.0149993896484375" d="2.499969482421875"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="2" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1341" name="HealthBarFillMask_mc" centerPoint3DX="138.2" centerPoint3DY="3.8">
+                                             <matrix>
+                                                  <Matrix tx="-11.8" ty="-2.2" a="1.0149688720703125" d="2.4998931884765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="3" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1341" name="HealthBarFillMask_mc" centerPoint3DX="133.1" centerPoint3DY="3.8">
+                                             <matrix>
+                                                  <Matrix tx="-16.9" ty="-2.2" a="1.0149688720703125" d="2.4998931884765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="4" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1341" name="HealthBarFillMask_mc" centerPoint3DX="127.95" centerPoint3DY="3.8">
+                                             <matrix>
+                                                  <Matrix tx="-22.05" ty="-2.2" a="1.0149688720703125" d="2.4998931884765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="5" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1341" name="HealthBarFillMask_mc" centerPoint3DX="122.85" centerPoint3DY="3.8">
+                                             <matrix>
+                                                  <Matrix tx="-27.15" ty="-2.2" a="1.0149688720703125" d="2.4998931884765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="6" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1341" name="HealthBarFillMask_mc" centerPoint3DX="117.7" centerPoint3DY="3.8">
+                                             <matrix>
+                                                  <Matrix tx="-32.3" ty="-2.2" a="1.0149688720703125" d="2.4998931884765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="7" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1341" name="HealthBarFillMask_mc" centerPoint3DX="112.6" centerPoint3DY="3.8">
+                                             <matrix>
+                                                  <Matrix tx="-37.4" ty="-2.2" a="1.0149688720703125" d="2.4998931884765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="8" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1341" name="HealthBarFillMask_mc" centerPoint3DX="107.45" centerPoint3DY="3.8">
+                                             <matrix>
+                                                  <Matrix tx="-42.55" ty="-2.2" a="1.0149688720703125" d="2.4998931884765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="9" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1341" name="HealthBarFillMask_mc" centerPoint3DX="102.35" centerPoint3DY="3.8">
+                                             <matrix>
+                                                  <Matrix tx="-47.65" ty="-2.2" a="1.0149688720703125" d="2.4998931884765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="10" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1341" name="HealthBarFillMask_mc" centerPoint3DX="97.2" centerPoint3DY="3.8">
+                                             <matrix>
+                                                  <Matrix tx="-52.8" ty="-2.2" a="1.0149688720703125" d="2.4998931884765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="11" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1341" name="HealthBarFillMask_mc" centerPoint3DX="92.1" centerPoint3DY="3.8">
+                                             <matrix>
+                                                  <Matrix tx="-57.9" ty="-2.2" a="1.0149688720703125" d="2.4998931884765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="12" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1341" name="HealthBarFillMask_mc" centerPoint3DX="86.95" centerPoint3DY="3.8">
+                                             <matrix>
+                                                  <Matrix tx="-63.05" ty="-2.2" a="1.0149688720703125" d="2.4998931884765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="13" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1341" name="HealthBarFillMask_mc" centerPoint3DX="81.85" centerPoint3DY="3.8">
+                                             <matrix>
+                                                  <Matrix tx="-68.15" ty="-2.2" a="1.0149688720703125" d="2.4998931884765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="14" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1341" name="HealthBarFillMask_mc" centerPoint3DX="76.7" centerPoint3DY="3.8">
+                                             <matrix>
+                                                  <Matrix tx="-73.3" ty="-2.2" a="1.0149688720703125" d="2.4998931884765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="15" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1341" name="HealthBarFillMask_mc" centerPoint3DX="71.6" centerPoint3DY="3.8">
+                                             <matrix>
+                                                  <Matrix tx="-78.4" ty="-2.2" a="1.0149688720703125" d="2.4998931884765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="16" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1341" name="HealthBarFillMask_mc" centerPoint3DX="66.45" centerPoint3DY="3.8">
+                                             <matrix>
+                                                  <Matrix tx="-83.55" ty="-2.2" a="1.0149688720703125" d="2.4998931884765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="17" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1341" name="HealthBarFillMask_mc" centerPoint3DX="61.35" centerPoint3DY="3.8">
+                                             <matrix>
+                                                  <Matrix tx="-88.65" ty="-2.2" a="1.0149688720703125" d="2.4998931884765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="18" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1341" name="HealthBarFillMask_mc" centerPoint3DX="56.2" centerPoint3DY="3.8">
+                                             <matrix>
+                                                  <Matrix tx="-93.8" ty="-2.2" a="1.0149688720703125" d="2.4998931884765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="19" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1341" name="HealthBarFillMask_mc" centerPoint3DX="51.1" centerPoint3DY="3.8">
+                                             <matrix>
+                                                  <Matrix tx="-98.9" ty="-2.2" a="1.0149688720703125" d="2.4998931884765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="20" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1341" name="HealthBarFillMask_mc" centerPoint3DX="45.95" centerPoint3DY="3.8">
+                                             <matrix>
+                                                  <Matrix tx="-104.05" ty="-2.2" a="1.0149688720703125" d="2.4998931884765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="21" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1341" name="HealthBarFillMask_mc" centerPoint3DX="40.85" centerPoint3DY="3.8">
+                                             <matrix>
+                                                  <Matrix tx="-109.15" ty="-2.2" a="1.0149688720703125" d="2.4998931884765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="22" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1341" name="HealthBarFillMask_mc" centerPoint3DX="35.7" centerPoint3DY="3.8">
+                                             <matrix>
+                                                  <Matrix tx="-114.3" ty="-2.2" a="1.0149688720703125" d="2.4998931884765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="23" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1341" name="HealthBarFillMask_mc" centerPoint3DX="30.6" centerPoint3DY="3.8">
+                                             <matrix>
+                                                  <Matrix tx="-119.4" ty="-2.2" a="1.0149688720703125" d="2.4998931884765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="24" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1341" name="HealthBarFillMask_mc" centerPoint3DX="25.45" centerPoint3DY="3.8">
+                                             <matrix>
+                                                  <Matrix tx="-124.55" ty="-2.2" a="1.0149688720703125" d="2.4998931884765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="25" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1341" name="HealthBarFillMask_mc" centerPoint3DX="20.35" centerPoint3DY="3.8">
+                                             <matrix>
+                                                  <Matrix tx="-129.65" ty="-2.2" a="1.0149688720703125" d="2.4998931884765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="26" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1341" name="HealthBarFillMask_mc" centerPoint3DX="15.2" centerPoint3DY="3.8">
+                                             <matrix>
+                                                  <Matrix tx="-134.8" ty="-2.2" a="1.0149688720703125" d="2.4998931884765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="27" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1341" name="HealthBarFillMask_mc" centerPoint3DX="10.1" centerPoint3DY="3.8">
+                                             <matrix>
+                                                  <Matrix tx="-139.9" ty="-2.2" a="1.0149688720703125" d="2.4998931884765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="28" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1341" name="HealthBarFillMask_mc" centerPoint3DX="4.95" centerPoint3DY="3.8">
+                                             <matrix>
+                                                  <Matrix tx="-145.05" ty="-2.2" a="1.0149688720703125" d="2.4998931884765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="29" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1341" name="HealthBarFillMask_mc" centerPoint3DX="-0.15" centerPoint3DY="3.8">
+                                             <matrix>
+                                                  <Matrix tx="-150.15" ty="-2.2" a="1.0149688720703125" d="2.4998931884765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="30" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1341" name="HealthBarFillMask_mc" centerPoint3DX="-5.3" centerPoint3DY="3.8">
+                                             <matrix>
+                                                  <Matrix tx="-155.3" ty="-2.2" a="1.0149688720703125" d="2.4998931884765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="31" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1341" name="HealthBarFillMask_mc" centerPoint3DX="-10.4" centerPoint3DY="3.8">
+                                             <matrix>
+                                                  <Matrix tx="-160.4" ty="-2.2" a="1.0149688720703125" d="2.4998931884765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="32" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1341" name="HealthBarFillMask_mc" centerPoint3DX="-15.55" centerPoint3DY="3.8">
+                                             <matrix>
+                                                  <Matrix tx="-165.55" ty="-2.2" a="1.0149688720703125" d="2.4998931884765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="33" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1341" name="HealthBarFillMask_mc" centerPoint3DX="-20.65" centerPoint3DY="3.8">
+                                             <matrix>
+                                                  <Matrix tx="-170.65" ty="-2.2" a="1.0149688720703125" d="2.4998931884765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="34" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1341" name="HealthBarFillMask_mc" centerPoint3DX="-25.8" centerPoint3DY="3.8">
+                                             <matrix>
+                                                  <Matrix tx="-175.8" ty="-2.2" a="1.0149688720703125" d="2.4998931884765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="35" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1341" name="HealthBarFillMask_mc" centerPoint3DX="-30.9" centerPoint3DY="3.8">
+                                             <matrix>
+                                                  <Matrix tx="-180.9" ty="-2.2" a="1.0149688720703125" d="2.4998931884765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="36" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1341" name="HealthBarFillMask_mc" centerPoint3DX="-36.05" centerPoint3DY="3.8">
+                                             <matrix>
+                                                  <Matrix tx="-186.05" ty="-2.2" a="1.0149688720703125" d="2.4998931884765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="37" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1341" name="HealthBarFillMask_mc" centerPoint3DX="-41.15" centerPoint3DY="3.8">
+                                             <matrix>
+                                                  <Matrix tx="-191.15" ty="-2.2" a="1.0149688720703125" d="2.4998931884765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="38" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1341" name="HealthBarFillMask_mc" centerPoint3DX="-46.3" centerPoint3DY="3.8">
+                                             <matrix>
+                                                  <Matrix tx="-196.3" ty="-2.2" a="1.0149688720703125" d="2.4998931884765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="39" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1341" name="HealthBarFillMask_mc" centerPoint3DX="-51.4" centerPoint3DY="3.8">
+                                             <matrix>
+                                                  <Matrix tx="-201.4" ty="-2.2" a="1.0149688720703125" d="2.4998931884765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="40" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1341" name="HealthBarFillMask_mc" centerPoint3DX="-56.55" centerPoint3DY="3.8">
+                                             <matrix>
+                                                  <Matrix tx="-206.55" ty="-2.2" a="1.0149688720703125" d="2.4998931884765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="41" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1341" name="HealthBarFillMask_mc" centerPoint3DX="-61.65" centerPoint3DY="3.8">
+                                             <matrix>
+                                                  <Matrix tx="-211.65" ty="-2.2" a="1.0149688720703125" d="2.4998931884765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="42" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1341" name="HealthBarFillMask_mc" centerPoint3DX="-66.8" centerPoint3DY="3.8">
+                                             <matrix>
+                                                  <Matrix tx="-216.8" ty="-2.2" a="1.0149688720703125" d="2.4998931884765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="43" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1341" name="HealthBarFillMask_mc" centerPoint3DX="-71.9" centerPoint3DY="3.8">
+                                             <matrix>
+                                                  <Matrix tx="-221.9" ty="-2.2" a="1.0149688720703125" d="2.4998931884765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="44" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1341" name="HealthBarFillMask_mc" centerPoint3DX="-77.05" centerPoint3DY="3.8">
+                                             <matrix>
+                                                  <Matrix tx="-227.05" ty="-2.2" a="1.0149688720703125" d="2.4998931884765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="45" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1341" name="HealthBarFillMask_mc" centerPoint3DX="-82.15" centerPoint3DY="3.8">
+                                             <matrix>
+                                                  <Matrix tx="-232.15" ty="-2.2" a="1.0149688720703125" d="2.4998931884765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="46" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1341" name="HealthBarFillMask_mc" centerPoint3DX="-87.3" centerPoint3DY="3.8">
+                                             <matrix>
+                                                  <Matrix tx="-237.3" ty="-2.2" a="1.0149688720703125" d="2.4998931884765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="47" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1341" name="HealthBarFillMask_mc" centerPoint3DX="-92.4" centerPoint3DY="3.8">
+                                             <matrix>
+                                                  <Matrix tx="-242.4" ty="-2.2" a="1.0149688720703125" d="2.4998931884765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="48" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1341" name="HealthBarFillMask_mc" centerPoint3DX="-97.55" centerPoint3DY="3.8">
+                                             <matrix>
+                                                  <Matrix tx="-247.55" ty="-2.2" a="1.0149688720703125" d="2.4998931884765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="49" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1341" name="HealthBarFillMask_mc" centerPoint3DX="-102.65" centerPoint3DY="3.8">
+                                             <matrix>
+                                                  <Matrix tx="-252.65" ty="-2.2" a="1.0149688720703125" d="2.4998931884765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="50" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1341" name="HealthBarFillMask_mc" centerPoint3DX="-107.8" centerPoint3DY="3.8">
+                                             <matrix>
+                                                  <Matrix tx="-257.8" ty="-2.2" a="1.0149688720703125" d="2.4998931884765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="51" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1341" name="HealthBarFillMask_mc" centerPoint3DX="-112.9" centerPoint3DY="3.8">
+                                             <matrix>
+                                                  <Matrix tx="-262.9" ty="-2.2" a="1.0149688720703125" d="2.4998931884765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="52" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1341" name="HealthBarFillMask_mc" centerPoint3DX="-118.05" centerPoint3DY="3.8">
+                                             <matrix>
+                                                  <Matrix tx="-268.05" ty="-2.2" a="1.0149688720703125" d="2.4998931884765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="53" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1341" name="HealthBarFillMask_mc" centerPoint3DX="-123.15" centerPoint3DY="3.8">
+                                             <matrix>
+                                                  <Matrix tx="-273.15" ty="-2.2" a="1.0149688720703125" d="2.4998931884765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="54" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1341" name="HealthBarFillMask_mc" centerPoint3DX="-128.3" centerPoint3DY="3.8">
+                                             <matrix>
+                                                  <Matrix tx="-278.3" ty="-2.2" a="1.0149688720703125" d="2.4998931884765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="55" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1341" name="HealthBarFillMask_mc" centerPoint3DX="-133.4" centerPoint3DY="3.8">
+                                             <matrix>
+                                                  <Matrix tx="-283.4" ty="-2.2" a="1.0149688720703125" d="2.4998931884765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="56" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1341" name="HealthBarFillMask_mc" centerPoint3DX="-138.55" centerPoint3DY="3.8">
+                                             <matrix>
+                                                  <Matrix tx="-288.55" ty="-2.2" a="1.0149688720703125" d="2.4998931884765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="57" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1341" name="HealthBarFillMask_mc" centerPoint3DX="-143.65" centerPoint3DY="3.8">
+                                             <matrix>
+                                                  <Matrix tx="-293.65" ty="-2.2" a="1.0149688720703125" d="2.4998931884765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="58" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1341" name="HealthBarFillMask_mc" centerPoint3DX="-148.8" centerPoint3DY="3.8">
+                                             <matrix>
+                                                  <Matrix tx="-298.8" ty="-2.2" a="1.0149688720703125" d="2.4998931884765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="59" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1341" name="HealthBarFillMask_mc" centerPoint3DX="-153.9" centerPoint3DY="3.75">
+                                             <matrix>
+                                                  <Matrix tx="-303.9" ty="-2.25" a="1.0149688720703125" d="2.4998931884765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 4" color="#80abc1" parentLayerIndex="2" locked="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" duration="58" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1338" name="BoostBarFill_mc" centerPoint3DX="150.25" centerPoint3DY="10.0">
+                                             <matrix>
+                                                  <Matrix tx="0.25" ty="0.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="10" blurY="10" color="#ffffff" quality="1" strength="0.7"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="59" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1338" name="BoostBarFill_mc" centerPoint3DX="150.25" centerPoint3DY="10.0">
+                                             <matrix>
+                                                  <Matrix tx="0.25" ty="0.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.0"/>
+                                             </color>
+                                             <filters>
+                                                  <GlowFilter blurX="10" blurY="10" color="#ffffff" quality="1" strength="0.7"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 5" color="#f1c7ff">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1338" name="BoostBarFill_mc" centerPoint3DX="150.25" centerPoint3DY="10.0">
+                                             <matrix>
+                                                  <Matrix tx="0.25" ty="0.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="10" blurY="10" color="#ffffff" quality="1" strength="0.7"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 6" color="#cbddbc" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" duration="60" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1338" name="BoostBarEmpty_mc" centerPoint3DX="150.25" centerPoint3DY="10.0">
+                                             <matrix>
+                                                  <Matrix tx="0.25" ty="0.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.19921875"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timeline>
+</DOMSymbolItem>

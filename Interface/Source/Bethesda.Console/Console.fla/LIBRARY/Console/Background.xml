@@ -1,0 +1,33 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Console/Background" itemID="6643b03d-00000141" lastModified="1715712061">
+  <timeline>
+    <DOMTimeline name="Background">
+      <layers>
+        <DOMLayer name="Layer 1" color="#B93CFD" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="-0.263656616210938" c="1.171875" d="0" tx="960" ty="-215.95"/>
+                        </matrix>
+                        <GradientEntry ratio="0.949019607843137"/>
+                        <GradientEntry alpha="0" ratio="1"/>
+                        <GradientEntry alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!38400 -8640|38400 0!38400 0|0 0!0 0|0 -8640!0 -8640|38400 -8640"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

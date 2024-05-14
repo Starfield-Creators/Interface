@@ -1,0 +1,790 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 922" lastModified="1713310678" linkageClassName="PlayerHudComponents_fla.BioCondition_mc_50" linkageExportForAS="true">
+     <timeline>
+          <DOMTimeline name="Symbol 922">
+               <layers>
+                    <DOMLayer name="Labels Layer" color="#33d4b0">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728" name="NoEffect" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" keyMode="9728" name="PersonalEffect_CardioRespiratoryCirculatory" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="2" keyMode="9728" name="PersonalEffect_SkeletalMuscular" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="3" keyMode="9728" name="PersonalEffect_NervousSystem" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="4" keyMode="9728" name="PersonalEffect_DigestiveImmune" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="5" keyMode="9728" name="PersonalEffect_Misc" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="6" keyMode="9728" name="PersonalEffect_CardioRespiratoryCirculatory_Positive" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="7" keyMode="9728" name="PersonalEffect_CardioRespiratoryCirculatory_Negative" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="8" keyMode="9728" name="PersonalEffect_SkeletalMuscular_Positive" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="9" keyMode="9728" name="PersonalEffect_SkeletalMuscular_Negative" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="10" keyMode="9728" name="PersonalEffect_NervousSystem_Positive" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="11" keyMode="9728" name="PersonalEffect_NervousSystem_Negative" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="12" keyMode="9728" name="PersonalEffect_DigestiveImmune_Positive" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="13" keyMode="9728" name="PersonalEffect_DigestiveImmune_Negative" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="14" keyMode="9728" name="PersonalEffect_Misc_Positive" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="15" keyMode="9728" name="PersonalEffect_Misc_Negative" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Script Layer" color="#cc96f1">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <Actionscript>
+                                        <script>stop();
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 3" color="#c3ec6b">
+                         <frames>
+                              <DOMFrame index="0" duration="5" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 911" name="PersonalEffect_Misc_Negative" centerPoint3DX="29.55" centerPoint3DY="26.5">
+                                             <matrix>
+                                                  <Matrix tx="14.5" ty="13.0" a="0.9632415771484375" d="0.9610748291015625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.0"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="5" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 911" name="PersonalEffect_Misc_Negative" centerPoint3DX="29.55" centerPoint3DY="26.5">
+                                             <matrix>
+                                                  <Matrix tx="14.5" ty="13.0" a="0.9632415771484375" d="0.9610748291015625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="6" duration="9" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 911" name="PersonalEffect_Misc_Negative" centerPoint3DX="29.55" centerPoint3DY="26.5">
+                                             <matrix>
+                                                  <Matrix tx="14.5" ty="13.0" a="0.9632415771484375" d="0.9610748291015625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.0"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="15" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 911" name="PersonalEffect_Misc_Negative" centerPoint3DX="29.55" centerPoint3DY="26.5">
+                                             <matrix>
+                                                  <Matrix tx="14.5" ty="13.0" a="0.9632415771484375" d="0.9610748291015625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 4" color="#a850c3">
+                         <frames>
+                              <DOMFrame index="0" duration="14" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 904" name="PersonalEffect_Misc_Positive" centerPoint3DX="29.55" centerPoint3DY="26.5">
+                                             <matrix>
+                                                  <Matrix tx="14.5" ty="13.0" a="0.9632415771484375" d="0.9610748291015625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.0"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="14" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 904" name="PersonalEffect_Misc_Positive" centerPoint3DX="29.55" centerPoint3DY="26.5">
+                                             <matrix>
+                                                  <Matrix tx="14.5" ty="13.0" a="0.9632415771484375" d="0.9610748291015625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="15" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 904" name="PersonalEffect_Misc_Positive" centerPoint3DX="29.55" centerPoint3DY="26.5">
+                                             <matrix>
+                                                  <Matrix tx="14.5" ty="13.0" a="0.9632415771484375" d="0.9610748291015625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.0"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 5" color="#4ea5c2">
+                         <frames>
+                              <DOMFrame index="0" duration="4" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 900" name="PersonalEffect_DigestiveImmune_Negative" centerPoint3DX="29.55" centerPoint3DY="26.5">
+                                             <matrix>
+                                                  <Matrix tx="14.5" ty="13.0" a="0.9632415771484375" d="0.9610748291015625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.0"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="4" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 900" name="PersonalEffect_DigestiveImmune_Negative" centerPoint3DX="29.55" centerPoint3DY="26.5">
+                                             <matrix>
+                                                  <Matrix tx="14.5" ty="13.0" a="0.9632415771484375" d="0.9610748291015625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.94921875"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="5" duration="8" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 900" name="PersonalEffect_DigestiveImmune_Negative" centerPoint3DX="29.55" centerPoint3DY="26.5">
+                                             <matrix>
+                                                  <Matrix tx="14.5" ty="13.0" a="0.9632415771484375" d="0.9610748291015625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.0"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="13" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 900" name="PersonalEffect_DigestiveImmune_Negative" centerPoint3DX="29.55" centerPoint3DY="26.5">
+                                             <matrix>
+                                                  <Matrix tx="14.5" ty="13.0" a="0.9632415771484375" d="0.9610748291015625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="14" duration="2" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 900" name="PersonalEffect_DigestiveImmune_Negative" centerPoint3DX="29.55" centerPoint3DY="26.5">
+                                             <matrix>
+                                                  <Matrix tx="14.5" ty="13.0" a="0.9632415771484375" d="0.9610748291015625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.0"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 6" color="#c7add7">
+                         <frames>
+                              <DOMFrame index="0" duration="12" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 893" name="PersonalEffect_DigestiveImmune_Positive" centerPoint3DX="29.55" centerPoint3DY="26.5">
+                                             <matrix>
+                                                  <Matrix tx="14.5" ty="13.0" a="0.9632415771484375" d="0.9610748291015625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.0"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="12" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 893" name="PersonalEffect_DigestiveImmune_Positive" centerPoint3DX="29.55" centerPoint3DY="26.5">
+                                             <matrix>
+                                                  <Matrix tx="14.5" ty="13.0" a="0.9632415771484375" d="0.9610748291015625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="13" duration="3" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 893" name="PersonalEffect_DigestiveImmune_Positive" centerPoint3DX="29.55" centerPoint3DY="26.5">
+                                             <matrix>
+                                                  <Matrix tx="14.5" ty="13.0" a="0.9632415771484375" d="0.9610748291015625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.0"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 7" color="#8febaf">
+                         <frames>
+                              <DOMFrame index="0" duration="3" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 888" name="PersonalEffect_SkeletalMuscular_Negative" centerPoint3DX="29.55" centerPoint3DY="26.5">
+                                             <matrix>
+                                                  <Matrix tx="14.5" ty="13.0" a="0.9632415771484375" d="0.9610748291015625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.0"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="3" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 888" name="PersonalEffect_SkeletalMuscular_Negative" centerPoint3DX="29.55" centerPoint3DY="26.5">
+                                             <matrix>
+                                                  <Matrix tx="14.5" ty="13.0" a="0.9632415771484375" d="0.9610748291015625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="4" duration="7" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 888" name="PersonalEffect_SkeletalMuscular_Negative" centerPoint3DX="29.55" centerPoint3DY="26.5">
+                                             <matrix>
+                                                  <Matrix tx="14.5" ty="13.0" a="0.9632415771484375" d="0.9610748291015625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.0"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="11" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 888" name="PersonalEffect_SkeletalMuscular_Negative" centerPoint3DX="29.55" centerPoint3DY="26.5">
+                                             <matrix>
+                                                  <Matrix tx="14.5" ty="13.0" a="0.9632415771484375" d="0.9610748291015625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="12" duration="4" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 888" name="PersonalEffect_SkeletalMuscular_Negative" centerPoint3DX="29.55" centerPoint3DY="26.5">
+                                             <matrix>
+                                                  <Matrix tx="14.5" ty="13.0" a="0.9632415771484375" d="0.9610748291015625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.0"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 8" color="#7037dc">
+                         <frames>
+                              <DOMFrame index="0" duration="10" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 881" name="PersonalEffect_NervousSystem_Positive" centerPoint3DX="29.55" centerPoint3DY="26.5">
+                                             <matrix>
+                                                  <Matrix tx="14.5" ty="13.0" a="0.9632415771484375" d="0.9610748291015625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.0"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="10" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 881" name="PersonalEffect_NervousSystem_Positive" centerPoint3DX="29.55" centerPoint3DY="26.5">
+                                             <matrix>
+                                                  <Matrix tx="14.5" ty="13.0" a="0.9632415771484375" d="0.9610748291015625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="11" duration="5" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 881" name="PersonalEffect_NervousSystem_Positive" centerPoint3DX="29.55" centerPoint3DY="26.5">
+                                             <matrix>
+                                                  <Matrix tx="14.5" ty="13.0" a="0.9632415771484375" d="0.9610748291015625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.0"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 9" color="#5ac4df">
+                         <frames>
+                              <DOMFrame index="0" duration="2" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 877" name="PersonalEffect_SkeletalMuscular_Negative" centerPoint3DX="29.55" centerPoint3DY="26.5">
+                                             <matrix>
+                                                  <Matrix tx="14.5" ty="13.0" a="0.9632415771484375" d="0.9610748291015625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.0"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="2" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 877" name="PersonalEffect_SkeletalMuscular_Negative" centerPoint3DX="29.55" centerPoint3DY="26.5">
+                                             <matrix>
+                                                  <Matrix tx="14.5" ty="13.0" a="0.9632415771484375" d="0.9610748291015625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="3" duration="6" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 877" name="PersonalEffect_SkeletalMuscular_Negative" centerPoint3DX="29.55" centerPoint3DY="26.5">
+                                             <matrix>
+                                                  <Matrix tx="14.5" ty="13.0" a="0.9632415771484375" d="0.9610748291015625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.0"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="9" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 877" name="PersonalEffect_SkeletalMuscular_Negative" centerPoint3DX="29.55" centerPoint3DY="26.5">
+                                             <matrix>
+                                                  <Matrix tx="14.5" ty="13.0" a="0.9632415771484375" d="0.9610748291015625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="10" duration="6" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 877" name="PersonalEffect_SkeletalMuscular_Negative" centerPoint3DX="29.55" centerPoint3DY="26.5">
+                                             <matrix>
+                                                  <Matrix tx="14.5" ty="13.0" a="0.9632415771484375" d="0.9610748291015625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.0"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 10" color="#dbf638">
+                         <frames>
+                              <DOMFrame index="0" duration="8" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 870" name="PersonalEffect_SkeletalMuscular_Positive" centerPoint3DX="29.55" centerPoint3DY="26.5">
+                                             <matrix>
+                                                  <Matrix tx="14.5" ty="13.0" a="0.9632415771484375" d="0.9610748291015625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.0"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="8" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 870" name="PersonalEffect_SkeletalMuscular_Positive" centerPoint3DX="29.55" centerPoint3DY="26.5">
+                                             <matrix>
+                                                  <Matrix tx="14.5" ty="13.0" a="0.9632415771484375" d="0.9610748291015625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="9" duration="7" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 870" name="PersonalEffect_SkeletalMuscular_Positive" centerPoint3DX="29.55" centerPoint3DY="26.5">
+                                             <matrix>
+                                                  <Matrix tx="14.5" ty="13.0" a="0.9632415771484375" d="0.9610748291015625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.0"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 11" color="#95a892">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 866" name="PersonalEffect_CardioRespiratoryCirculatory_Negative" centerPoint3DX="29.55" centerPoint3DY="26.5">
+                                             <matrix>
+                                                  <Matrix tx="14.5" ty="13.0" a="0.9632415771484375" d="0.9610748291015625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.0"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="1" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 866" name="PersonalEffect_CardioRespiratoryCirculatory_Negative" centerPoint3DX="29.55" centerPoint3DY="26.5">
+                                             <matrix>
+                                                  <Matrix tx="14.5" ty="13.0" a="0.9632415771484375" d="0.9610748291015625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="2" duration="5" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 866" name="PersonalEffect_CardioRespiratoryCirculatory_Negative" centerPoint3DX="29.55" centerPoint3DY="26.5">
+                                             <matrix>
+                                                  <Matrix tx="14.5" ty="13.0" a="0.9632415771484375" d="0.9610748291015625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.0"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="7" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 866" name="PersonalEffect_CardioRespiratoryCirculatory_Negative" centerPoint3DX="29.55" centerPoint3DY="26.5">
+                                             <matrix>
+                                                  <Matrix tx="14.5" ty="13.0" a="0.9632415771484375" d="0.9610748291015625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="8" duration="8" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 866" name="PersonalEffect_CardioRespiratoryCirculatory_Negative" centerPoint3DX="29.55" centerPoint3DY="26.5">
+                                             <matrix>
+                                                  <Matrix tx="14.5" ty="13.0" a="0.9632415771484375" d="0.9610748291015625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.0"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 12" color="#4e94af">
+                         <frames>
+                              <DOMFrame index="0" duration="6" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 858" name="PersonalEffect_CardioRespiratoryCirculatory_Positive" centerPoint3DX="29.55" centerPoint3DY="26.5">
+                                             <matrix>
+                                                  <Matrix tx="14.5" ty="13.0" a="0.9632415771484375" d="0.9610748291015625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.0"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="6" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 858" name="PersonalEffect_CardioRespiratoryCirculatory_Positive" centerPoint3DX="29.55" centerPoint3DY="26.5">
+                                             <matrix>
+                                                  <Matrix tx="14.5" ty="13.0" a="0.9632415771484375" d="0.9610748291015625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="7" duration="9" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 858" name="PersonalEffect_CardioRespiratoryCirculatory_Positive" centerPoint3DX="29.55" centerPoint3DY="26.5">
+                                             <matrix>
+                                                  <Matrix tx="14.5" ty="13.0" a="0.9632415771484375" d="0.9610748291015625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.0"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 13" color="#75a3d6" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 853" name="Condition_mc" centerPoint3DX="14.5" centerPoint3DY="13.0">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.0"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="1" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 913" name="Condition_mc" centerPoint3DX="14.5" centerPoint3DY="13.0">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.0"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="2" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 915" name="Condition_mc" centerPoint3DX="14.5" centerPoint3DY="13.0">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.0"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="3" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 917" name="Condition_mc" centerPoint3DX="14.5" centerPoint3DY="13.0">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.0"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="4" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 919" name="Condition_mc" centerPoint3DX="14.5" centerPoint3DY="13.0">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.0"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="5" duration="11" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 921" name="Condition_mc" centerPoint3DX="14.5" centerPoint3DY="13.0">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.0"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timeline>
+</DOMSymbolItem>
