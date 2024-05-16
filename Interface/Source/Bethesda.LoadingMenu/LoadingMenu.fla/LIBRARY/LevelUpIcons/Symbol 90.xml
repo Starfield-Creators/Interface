@@ -1,0 +1,46 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="LevelUpIcons/Symbol 90" itemID="6645a4f5-000002d5" linkageExportForAS="true" linkageClassName="Ones_2" lastModified="1713310678">
+  <timeline>
+    <DOMTimeline name="Symbol 90">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FB28F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="LevelUpIcons/Symbol 82" centerPoint3DX="47.95" centerPoint3DY="37.85">
+                  <matrix>
+                    <Matrix a="0.630279541015625" d="0.630279541015625" tx="21" ty="0.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter alpha="0.266666666666667" angle="89.9993784528028" blurX="0" blurY="0" color="#202A4D" distance="7"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#C513D1" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="LevelUpIcons/Symbol 82" centerPoint3DX="5.95" centerPoint3DY="37.85">
+                  <matrix>
+                    <Matrix a="0.630279541015625" d="0.630279541015625" tx="-21" ty="0.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter alpha="0.266666666666667" angle="89.9993784528028" blurX="0" blurY="0" color="#202A4D" distance="7"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,66 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="LoadingMenu/BuildingShaders/BuildingShaders" itemID="6645a645-00000345" lastModified="1715846873">
+  <timeline>
+    <DOMTimeline name="BuildingShaders">
+      <layers>
+        <DOMLayer name="Meter_mc" color="#3CC4DB" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="LoadingMenu/BuildingShaders/BuildingShaders_Meter" name="Meter_mc" selected="true" centerPoint3DX="-0.3" centerPoint3DY="15.7">
+                  <matrix>
+                    <Matrix tx="-150.3" ty="12.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Text Label" color="#BB58A0" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText selected="true" width="193.35" height="20" isSelectable="false" lineType="multiline no wrap">
+                  <matrix>
+                    <Matrix tx="-151.85" ty="-16.65"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>$BUILDING SHADERS:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" rotation="true" lineHeight="13.8" bitmapSize="240" face="NB_Grotesk_Semibold*" fillColor="#EDEDED"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Amount_tf" color="#BCCD7A" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="Amount_tf" selected="true" width="106.25" height="20" isSelectable="false" lineType="multiline no wrap">
+                  <matrix>
+                    <Matrix tx="45.6" ty="-16.65"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>####/####</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="right" aliasText="false" autoKern="false" rotation="true" lineHeight="13.8" bitmapSize="240" face="NB_Grotesk_Semibold*" fillColor="#EDEDED"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

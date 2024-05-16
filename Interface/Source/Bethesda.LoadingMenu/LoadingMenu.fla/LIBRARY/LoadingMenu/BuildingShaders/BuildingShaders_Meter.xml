@@ -1,0 +1,40 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="LoadingMenu/BuildingShaders/BuildingShaders_Meter" itemID="6645baf3-0000038d" lastModified="1715846840">
+  <timeline>
+    <DOMTimeline name="BuildingShaders_Meter">
+      <layers>
+        <DOMLayer name="Fill_mc" color="#CC9900" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="LoadingMenu/BuildingShaders/BuildingShaders_MeterClip" name="Fill_mc" selected="true" centerPoint3DX="150" centerPoint3DY="3">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="37" blueOffset="186" greenOffset="164"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Outline" color="#CC3300" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="LoadingMenu/BuildingShaders/BuildingShaders_MeterClip" selected="true" centerPoint3DX="150" centerPoint3DY="3">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.19921875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

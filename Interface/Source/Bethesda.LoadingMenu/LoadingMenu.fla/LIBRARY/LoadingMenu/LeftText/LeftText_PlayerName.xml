@@ -1,0 +1,29 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="LoadingMenu/LeftText/LeftText_PlayerName" itemID="6645bb0d-00000392" lastModified="1715846914">
+  <timeline>
+    <DOMTimeline name="LeftText_PlayerName">
+      <layers>
+        <DOMLayer name="text_tf" color="#F7931C" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="text_tf" selected="true" width="644.9" height="32.3" isSelectable="false" renderAsHTML="true" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-13.4" ty="-3.65"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Super Looooong Name Ramone</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="0.3" lineSpacing="2.4" lineHeight="32.3" size="28" bitmapSize="560" face="NB_Grotesk_Semibold*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

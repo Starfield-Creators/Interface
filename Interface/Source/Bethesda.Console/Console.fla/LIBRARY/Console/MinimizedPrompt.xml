@@ -1,12 +1,12 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Console/MinimizedPrompt" itemID="6643b010-00000140" lastModified="1715712016">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Console/MinimizedPrompt" itemID="6643b010-00000140" lastModified="1715847119">
   <timeline>
     <DOMTimeline name="MinimizedPrompt">
       <layers>
-        <DOMLayer name="Layer 1" color="#9FE08C" locked="true" current="true" isSelected="true">
+        <DOMLayer name="Text" color="#9FE08C" locked="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMStaticText width="192.4" height="30.1" isSelectable="false">
+                <DOMStaticText selected="true" width="192.4" height="28.7" isSelectable="false">
                   <matrix>
                     <Matrix tx="2.5" ty="1.85"/>
                   </matrix>
@@ -14,7 +14,7 @@
                     <DOMTextRun>
                       <characters>Console Minimized&#xD;</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" autoKern="false" rotation="true" lineHeight="14.05" bitmapSize="240" face="ConsoleFont*" fillColor="#FFFFFF"/>
+                        <DOMTextAttrs aliasText="false" autoKern="false" rotation="true" lineHeight="13.35" bitmapSize="240" face="ConsoleFont*" fillColor="#FFFFFF"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
@@ -23,7 +23,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Layer 2" color="#AECB44" locked="true">
+        <DOMLayer name="Background" color="#AECB44" locked="true" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -43,7 +43,7 @@
                     </StrokeStyle>
                   </strokes>
                   <edges>
-                    <Edge fillStyle1="1" strokeStyle="1" edges="!0 0|3520 0!3520 0|3520 540!3520 540|0 540!0 540|0 0"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!0 0S6|3520 0!3520 0|3520 540!3520 540|0 540!0 540|0 0"/>
                   </edges>
                 </DOMShape>
               </elements>

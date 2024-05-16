@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Console/Console" itemID="6643afbb-0000013d" linkageExportForAS="true" linkageClassName="Console" lastModified="1715712052">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Console/Console" itemID="6643afbb-0000013d" linkageExportForAS="true" linkageClassName="Console" lastModified="1715847208">
   <timeline>
     <DOMTimeline name="Console">
       <layers>
@@ -18,7 +18,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="CommandPrompt_tf" color="#7F42FB" locked="true" autoNamed="false">
+        <DOMLayer name="CommandPrompt_tf" color="#7F42FB" locked="true" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -30,7 +30,7 @@
                     <DOMTextRun>
                       <characters>--- </characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" autoKern="false" rotation="true" letterSpacing="1" lineHeight="23.4" size="20" bitmapSize="400" face="ConsoleFont*" fillColor="#FFFFFF"/>
+                        <DOMTextAttrs aliasText="false" autoKern="false" rotation="true" letterSpacing="1" lineHeight="22.35" size="20" bitmapSize="400" face="ConsoleFont*" fillColor="#FFFFFF"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
@@ -51,7 +51,7 @@
                     <DOMTextRun>
                       <characters>Text</characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" rotation="true" letterSpacing="2" lineHeight="23.4" size="20" bitmapSize="400" face="ConsoleFont*" fillColor="#FFFFFF"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" rotation="true" letterSpacing="2" lineHeight="22.35" size="20" bitmapSize="400" face="ConsoleFont*" fillColor="#FFFFFF"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
@@ -72,7 +72,7 @@
                     <DOMTextRun>
                       <characters>Text</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" autoKern="false" rotation="true" letterSpacing="2" lineHeight="21.05" size="18" bitmapSize="360" face="ConsoleFont*" fillColor="#999999"/>
+                        <DOMTextAttrs aliasText="false" autoKern="false" rotation="true" letterSpacing="2" lineHeight="20.1" size="18" bitmapSize="360" face="ConsoleFont*" fillColor="#999999"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
@@ -85,7 +85,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMInputText name="CommandEntry" selected="true" width="1691.2" height="23.4" renderAsHTML="true">
+                <DOMInputText name="CommandEntry" width="1691.2" height="23.4" renderAsHTML="true">
                   <matrix>
                     <Matrix a="1.00283813476562" tx="132.15" ty="-83"/>
                   </matrix>
@@ -93,7 +93,7 @@
                     <DOMTextRun>
                       <characters>Text</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" autoKern="false" rotation="true" letterSpacing="1" lineHeight="23.4" size="20" bitmapSize="400" face="ConsoleFont*" fillColor="#FFFFFF"/>
+                        <DOMTextAttrs aliasText="false" autoKern="false" rotation="true" letterSpacing="1" lineHeight="22.35" size="20" bitmapSize="400" face="ConsoleFont*" fillColor="#FFFFFF"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
@@ -102,7 +102,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Background" color="#9CD465" locked="true" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="Background" color="#9CD465" locked="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>

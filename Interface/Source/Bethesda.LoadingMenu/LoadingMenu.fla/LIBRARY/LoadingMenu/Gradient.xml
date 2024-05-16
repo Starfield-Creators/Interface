@@ -1,0 +1,33 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="LoadingMenu/Gradient" itemID="6645a69f-00000349" lastModified="1715846379">
+  <timeline>
+    <DOMTimeline name="Gradient">
+      <layers>
+        <DOMLayer name="Shape" color="#95D9CF" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="9.1552734375e-05" b="-0.170867919921875" c="1.17138671875" d="0" tx="-0.2" ty="-0.1"/>
+                        </matrix>
+                        <GradientEntry ratio="0"/>
+                        <GradientEntry alpha="0.498039215686275" ratio="0.803921568627451"/>
+                        <GradientEntry alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-19200 2800S2|-19193 -2800!-19193 -2800|19200 -2800!19200 -2800|19193 2800!19193 2800|-19200 2800"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,101 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="LoadingMenu/LoadingMenu" itemID="6645a542-00000338" linkageExportForAS="true" linkageClassName="LoadingMenu" lastModified="1715846369">
+  <timeline>
+    <DOMTimeline name="LoadingMenu">
+      <layers>
+        <DOMLayer name="BuildingShaders_mc" color="#C9B206" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="LoadingMenu/BuildingShaders/BuildingShaders" name="BuildingShaders_mc" selected="true" centerPoint3DX="1113.85" centerPoint3DY="104.05">
+                  <matrix>
+                    <Matrix tx="960" ty="85.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="LeftText_mc" color="#AFD5AC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="LoadingMenu/LeftText/LeftText" name="LeftText_mc" selected="true" centerPoint3DX="778.8" centerPoint3DY="858.75">
+                  <matrix>
+                    <Matrix tx="91.25" ty="751.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Spinner_mc" color="#9DB059" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="LoadingMenu/LeftText/Spinner/Spinner" name="Spinner_mc" selected="true" centerPoint3DX="1877.4" centerPoint3DY="1005.85">
+                  <matrix>
+                    <Matrix a="1.5" d="1.5" tx="1839.75" ty="968.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Gradient_mc" color="#EB84C2" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="LoadingMenu/Gradient" name="Gradient_mc" selected="true" centerPoint3DX="1920" centerPoint3DY="1080">
+                  <matrix>
+                    <Matrix tx="960" ty="940"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Texture_mc" color="#B0847C" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="LoadingMenu/TextureHolder" name="Texture_mc" selected="true">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="BlackRect_mc" color="#8CB9AF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="LoadingMenu/BlackRect" name="BlackRect_mc" selected="true" centerPoint3DX="15" centerPoint3DY="15">
+                  <matrix>
+                    <Matrix a="64" d="36"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
