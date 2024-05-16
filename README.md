@@ -31,14 +31,11 @@ The fonts used by Starfield.
 - `Fonts_zhcn.swf`: Simplified Chinese
 
 
-
 # Shared
 These are the shared code imports for Starfield.
 
 ## Shared.Components.ButtonControls
-- ButtonBar
-
-## Shared.Components.ContentLoaders
+- uses: ButtonBar
 
 
 # Components
@@ -48,14 +45,38 @@ The top level UI components used by Starfield.
 The planet info card.
 
 
+# Assets
+These are the author time shared library (ASL) assets
+Author time shared libraries (ASL) are baked into each swf that uses them.
+
+## LevelUpIcons
+The level up icons are used by these menus and components.
+- DataMenu
+- DataMenuSharedComponents
+- InventoryMenu
+- LoadingMenu
+- StatusMenu
+
+
 # Menus
 The UI menus used by Starfield.
 
 ## Console
+Uses only the `$ConsoleFont` for all text fields.
 
-## ButtonClips
+#### Imports:
+- `Bethesda.Fonts_en`
+- `Bethesda`
 
-## Galaxy2DMap
+
+## LoadingMenu
+Although all the text fields use the `$NB_Grotesk_Semibold` font, all of the `fonts_en.swf` font symbols are imported.
+This menu uses the `LevelUpIcons` asset.
+
+#### Imports:
+- `Bethesda.Fonts_en`
+- `Bethesda`
+
 
 ## GalaxyStarmapMenu
 - Components: `Icons`
@@ -81,15 +102,3 @@ The UI menus used by Starfield.
 ## TestMenu
 - Components: `ComponentResourceIcon`
 - Components: `ImageFixture`
-
-## TextInputMenu
-
-## WidgetOverlay
-
-## ASL: `LevelUpIcons`
-The level up icons are used by these menus and components.
-- DataMenu
-- DataMenuSharedComponents
-- InventoryMenu
-- LoadingMenu
-- StatusMenu
