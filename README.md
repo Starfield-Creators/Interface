@@ -85,3 +85,11 @@ The UI menus used by Starfield.
 ## TextInputMenu
 
 ## WidgetOverlay
+
+## ASL: `LevelUpIcons`
+The level up icons are used by these menus and components.
+- DataMenu
+- DataMenuSharedComponents
+- InventoryMenu
+- LoadingMenu
+- StatusMenu
