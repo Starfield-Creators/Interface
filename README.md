@@ -31,11 +31,20 @@ The fonts used by Starfield.
 - `Fonts_zhcn.swf`: Simplified Chinese
 
 
+
+# Eaze Tween AS3 Library
+Eaze Tween is an motion tween library for AS3.
+You can find the full source for the entire Eaze Tween library here.
+http://code.google.com/p/eaze-tween/
+
+
+
 # Shared
 These are the shared code imports for Starfield.
 
 ## Shared.Components.ButtonControls
 - uses: ButtonBar
+
 
 
 # Components
@@ -45,9 +54,11 @@ The top level UI components used by Starfield.
 The planet info card.
 
 
+
 # Assets
 These are the author time shared library (ASL) assets
 Author time shared libraries (ASL) are baked into each swf that uses them.
+
 
 ## LevelUpIcons
 The level up icons are used by these menus and components.
@@ -58,8 +69,14 @@ The level up icons are used by these menus and components.
 - StatusMenu
 
 
+## MetersShared
+- RSL Import: `fonts_en.swf`
+
+
+
 # Menus
 The UI menus used by Starfield.
+
 
 ## Console
 Uses only the `$ConsoleFont` for all text fields.
@@ -67,6 +84,14 @@ Uses only the `$ConsoleFont` for all text fields.
 #### Imports:
 - `Bethesda.Fonts_en`
 - `Bethesda`
+
+#### BGSCodeObj
+- `executeCommand(command:String) : *`
+- `loadPreviousCommands(array:Array) : *`
+- `savePreviousCommands(array:Array) : *`
+- `loadHistory() : *`
+- `saveHistory(history:String) : *`
+- `onHideComplete() : *`
 
 
 ## LoadingMenu
@@ -76,6 +101,14 @@ This menu uses the `LevelUpIcons` asset.
 #### Imports:
 - `Bethesda.Fonts_en`
 - `Bethesda`
+
+
+# DataMenu
+The SWF file uses assets from an imported SWF file.
+- RSL Import: `fonts_en.swf`
+- RSL Import: `ButtonClips.swf`
+- RSL Import: `Factions.swf`
+- RSL Import: `MetersShared.swf`
 
 
 ## GalaxyStarmapMenu
